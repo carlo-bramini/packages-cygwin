@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "SoX Resampler library"
+ldesc: "The SoX Resampler library performs one-dimensional sample-rate
+conversion.  It may be used, for example, to resample PCM-encoded audio."
+skip:
+
+homepage: http://soxr.sourceforge.net/

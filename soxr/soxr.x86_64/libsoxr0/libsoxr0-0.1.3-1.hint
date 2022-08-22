@@ -1,0 +1,7 @@
+category: Libs
+requires: cygwin libgomp1 
+sdesc: "SoX Resampler library"
+ldesc: "The SoX Resampler library performs one-dimensional sample-rate
+conversion.  It may be used, for example, to resample PCM-encoded audio."
+external-source: soxr
+

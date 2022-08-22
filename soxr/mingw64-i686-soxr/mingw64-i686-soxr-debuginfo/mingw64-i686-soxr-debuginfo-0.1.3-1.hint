@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: mingw64-i686-soxr
+sdesc: "Debug info for mingw64-i686-soxr"
+ldesc: "This package contains files necessary for debugging the
+mingw64-i686-soxr package with gdb."
+
