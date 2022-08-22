@@ -1,0 +1,9 @@
+category: Audio
+build-depends: cygport 
+sdesc: "Open Sound Control protocol for POSIX systems"
+ldesc: "Open Sound Control (OSC) is a protocol for communication
+ among computers, sound synthesizers, and other multimedia devices that
+ is optimized for modern networking technology."
+skip:
+
+homepage: http://liblo.sourceforge.net/

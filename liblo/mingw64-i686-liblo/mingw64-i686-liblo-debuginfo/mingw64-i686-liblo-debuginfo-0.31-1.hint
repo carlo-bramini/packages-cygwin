@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: mingw64-i686-liblo
+sdesc: "Debug info for mingw64-i686-liblo"
+ldesc: "This package contains files necessary for debugging the
+mingw64-i686-liblo package with gdb."
+
