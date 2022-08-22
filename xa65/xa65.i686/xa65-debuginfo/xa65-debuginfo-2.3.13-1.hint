@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: xa65
+sdesc: "Debug info for xa65"
+ldesc: "This package contains files necessary for debugging the
+xa65 package with gdb."
+
