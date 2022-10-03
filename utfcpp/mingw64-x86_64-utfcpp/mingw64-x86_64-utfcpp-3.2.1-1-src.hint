@@ -1,0 +1,7 @@
+category: Devel
+build-depends: cygport 
+sdesc: "UTF-8 with C++ in a Portable Way"
+ldesc: "utf8cpp is a simple, portable, lightweight library for handling UTF-8 in C++."
+skip:
+
+homepage: https://github.com/nemtrif/utfcpp
