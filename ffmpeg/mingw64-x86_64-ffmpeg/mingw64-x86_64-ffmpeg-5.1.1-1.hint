@@ -1,0 +1,6 @@
+category: Devel
+requires: mingw64-x86_64-bzip2 mingw64-x86_64-SDL2 mingw64-x86_64-win-iconv mingw64-x86_64-winpthreads mingw64-x86_64-xz mingw64-x86_64-zlib pkg-config 
+sdesc: "FFmpeg multimedia framework"
+ldesc: "FFmpeg is a multimedia framework, able to decode, encode, transcode, mux, demux,
+stream, filter and play pretty much anything that humans and machines have created."
+

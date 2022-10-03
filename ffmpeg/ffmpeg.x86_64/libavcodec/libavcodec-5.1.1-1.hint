@@ -1,0 +1,7 @@
+category: Libs
+requires: cygwin libavutil libiconv2 liblzma5 libswresample zlib0 
+sdesc: "FFmpeg multimedia framework"
+ldesc: "FFmpeg is a multimedia framework, able to decode, encode, transcode, mux, demux,
+stream, filter and play pretty much anything that humans and machines have created."
+external-source: ffmpeg
+
