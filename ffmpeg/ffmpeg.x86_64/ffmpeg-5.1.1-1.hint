@@ -1,6 +1,0 @@
-category: Libs
-requires: cygwin libavcodec libavdevice libavfilter libavformat libavutil libpostproc libSDL2_2.0_0 libswresample libswscale 
-sdesc: "FFmpeg multimedia framework"
-ldesc: "FFmpeg is a multimedia framework, able to decode, encode, transcode, mux, demux,
-stream, filter and play pretty much anything that humans and machines have created."
-

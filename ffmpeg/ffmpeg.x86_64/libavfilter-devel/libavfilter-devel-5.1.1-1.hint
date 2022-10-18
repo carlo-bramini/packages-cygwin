@@ -1,7 +1,0 @@
-category: Devel
-requires: libavcodec-devel libavfilter libavformat-devel libavutil-devel libpostproc-devel libswresample-devel libswscale-devel pkg-config 
-sdesc: "FFmpeg multimedia framework"
-ldesc: "FFmpeg is a multimedia framework, able to decode, encode, transcode, mux, demux,
-stream, filter and play pretty much anything that humans and machines have created."
-external-source: ffmpeg
-
