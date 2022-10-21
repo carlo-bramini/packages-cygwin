@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: wavpack
+sdesc: "Debug info for wavpack"
+ldesc: "This package contains files necessary for debugging the
+wavpack package with gdb."
+
