@@ -1,0 +1,6 @@
+category: Audio
+requires:  
+sdesc: "Free Lossless Audio Codec (HTML documentation)"
+ldesc: "FLAC is an Open Source lossless audio codec developed by Josh Coalson."
+external-source: flac
+

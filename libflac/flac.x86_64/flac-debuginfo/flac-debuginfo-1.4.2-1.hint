@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: flac
+sdesc: "Debug info for flac"
+ldesc: "This package contains files necessary for debugging the
+flac package with gdb."
+
