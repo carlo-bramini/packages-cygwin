@@ -1,0 +1,7 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Xiph OGG container library for Win32 toolchain"
+ldesc: "Xiph OGG container library for Win32 toolchain"
+skip:
+
+homepage: http://www.xiph.org/ogg/

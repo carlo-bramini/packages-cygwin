@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libogg
+sdesc: "Debug info for libogg"
+ldesc: "This package contains files necessary for debugging the
+libogg package with gdb."
+
