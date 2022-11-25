@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: mingw64-x86_64-libvorbis
+sdesc: "Debug info for mingw64-x86_64-libvorbis"
+ldesc: "This package contains files necessary for debugging the
+mingw64-x86_64-libvorbis package with gdb."
+

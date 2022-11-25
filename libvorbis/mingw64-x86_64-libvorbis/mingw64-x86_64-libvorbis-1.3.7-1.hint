@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-libogg pkg-config 
+sdesc: "Xiph audio compression codec for Win32 toolchain"
+ldesc: "Xiph audio compression codec for Win32 toolchain"
+

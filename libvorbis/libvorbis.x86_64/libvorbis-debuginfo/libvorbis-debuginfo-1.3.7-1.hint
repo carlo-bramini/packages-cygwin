@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libvorbis
+sdesc: "Debug info for libvorbis"
+ldesc: "This package contains files necessary for debugging the
+libvorbis package with gdb."
+
