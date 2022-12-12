@@ -1,4 +1,4 @@
-category: Libs
+category: Devel
 requires: liblo1 pkg-config 
 sdesc: "Open Sound Control protocol for POSIX systems"
 ldesc: "Open Sound Control (OSC) is a protocol for communication

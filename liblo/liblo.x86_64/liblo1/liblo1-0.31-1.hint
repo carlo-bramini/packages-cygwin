@@ -1,5 +1,5 @@
 category: Libs
-requires: cygwin 
+requires: cygwin
 sdesc: "Open Sound Control protocol for POSIX systems"
 ldesc: "Open Sound Control (OSC) is a protocol for communication
  among computers, sound synthesizers, and other multimedia devices that
