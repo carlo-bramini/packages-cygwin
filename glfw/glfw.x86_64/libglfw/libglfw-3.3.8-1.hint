@@ -1,5 +1,5 @@
 category: Libs
-requires: cygwin libX11_6 
+requires: cygwin libX11_6
 sdesc: "Portable library for OpenGL"
 ldesc: "GLFW is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop."
 external-source: glfw

@@ -1,4 +1,4 @@
-category: Libs
+category: Devel
 requires: libglfw libX11-devel pkg-config 
 sdesc: "Portable library for OpenGL"
 ldesc: "GLFW is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan development on the desktop."
