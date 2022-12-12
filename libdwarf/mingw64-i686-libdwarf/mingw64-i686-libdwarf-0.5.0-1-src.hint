@@ -1,4 +1,4 @@
-category: Libs
+category: Devel
 build-depends: cygport 
 sdesc: "dwarf library"
 ldesc: "libdwarf, a library for reading DWARF2 and later DWARF."
