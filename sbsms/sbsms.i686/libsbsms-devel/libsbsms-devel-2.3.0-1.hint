@@ -1,4 +1,4 @@
-category: Libs
+category: Devel
 requires: libsbsms pkg-config 
 sdesc: "A library for high quality time stretching and pitch scaling of audio."
 ldesc: "A C++ library for high quality time stretching and pitch scaling of audio.
