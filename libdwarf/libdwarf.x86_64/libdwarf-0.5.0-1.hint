@@ -1,0 +1,5 @@
+category: Libs
+requires: cygwin libzstd1 zlib0
+sdesc: "dwarf library"
+ldesc: "libdwarf, a library for reading DWARF2 and later DWARF."
+

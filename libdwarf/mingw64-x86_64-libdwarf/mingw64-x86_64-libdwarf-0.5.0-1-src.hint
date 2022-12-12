@@ -1,0 +1,7 @@
+category: Libs
+build-depends: cygport 
+sdesc: "dwarf library"
+ldesc: "libdwarf, a library for reading DWARF2 and later DWARF."
+skip:
+
+homepage: https://github.com/davea42/libdwarf-code

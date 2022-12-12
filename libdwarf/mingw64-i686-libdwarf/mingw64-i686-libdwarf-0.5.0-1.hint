@@ -1,0 +1,5 @@
+category: Libs
+requires: mingw64-i686-gcc-core mingw64-i686-zlib mingw64-i686-zstd pkg-config
+sdesc: "dwarf library"
+ldesc: "libdwarf, a library for reading DWARF2 and later DWARF."
+

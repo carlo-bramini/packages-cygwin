@@ -1,0 +1,6 @@
+category: Devel
+requires: libdwarf pkg-config zlib-devel
+sdesc: "dwarf library"
+ldesc: "libdwarf, a library for reading DWARF2 and later DWARF."
+external-source: libdwarf
+
