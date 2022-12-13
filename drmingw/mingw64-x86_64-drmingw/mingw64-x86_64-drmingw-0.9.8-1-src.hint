@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Dr. Mingw JIT debugger"
+ldesc: "Dr. Mingw is a Just-in-Time (JIT) debugger. When the application throws
+ an unhandled exception, Dr. Mingw attaches itself to the application and collects
+ information about the exception, using the available debugging information."
+skip:
+
+homepage: https://github.com/jrfonseca/drmingw
