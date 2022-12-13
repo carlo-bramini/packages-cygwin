@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "ELF object file access library"
+ldesc: "libelf is a free ELF object file access library that is compatible
+with the commercial (SVR4, Solaris) versions."
+skip:
+
+homepage: http://www.mr511.de/software/

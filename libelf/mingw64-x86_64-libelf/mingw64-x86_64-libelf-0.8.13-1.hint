@@ -1,0 +1,6 @@
+category: Devel
+requires: pkg-config
+sdesc: "ELF object file access library"
+ldesc: "libelf is a free ELF object file access library that is compatible
+with the commercial (SVR4, Solaris) versions."
+
