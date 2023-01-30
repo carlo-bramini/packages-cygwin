@@ -1,0 +1,6 @@
+category: Devel
+requires: cygwin libzstd1 zlib0
+sdesc: "GNU assembler, linker, and similar utilities for linux-gnu-gcc toolchain"
+ldesc: "This directory contains various GNU compilers, assemblers, linkers,
+debuggers, etc., plus their support routines, definitions, and documentation."
+
