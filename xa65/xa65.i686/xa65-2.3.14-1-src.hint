@@ -1,5 +1,8 @@
 category: Devel
-requires: cygwin 
+build-depends: cygport 
 sdesc: "xa is a cross-assembler for the 6502 and 65816 CPUs (and derivatives)."
 ldesc: "xa is a cross-assembler for the 6502 and 65816 CPUs (and derivatives)."
+skip:
 
+homepage: http://www.floodgap.com
+license: GPL-2.0-only
