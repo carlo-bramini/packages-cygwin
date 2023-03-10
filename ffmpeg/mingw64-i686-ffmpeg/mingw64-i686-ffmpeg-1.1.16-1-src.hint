@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "FFmpeg multimedia framework"
+ldesc: "FFmpeg is a multimedia framework, able to decode, encode, transcode, mux, demux,
+stream, filter and play pretty much anything that humans and machines have created."
+skip:
+
+homepage: https://ffmpeg.org/
+license: LGPL-2.1-only
