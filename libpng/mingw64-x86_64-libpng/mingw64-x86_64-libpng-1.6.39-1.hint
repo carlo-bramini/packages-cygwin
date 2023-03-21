@@ -1,0 +1,5 @@
+category: Devel
+requires: bash mingw64-x86_64-zlib pkg-config
+sdesc: "PNG graphics library for Win32 toolchain"
+ldesc: "PNG graphics library for Win32 toolchain"
+
