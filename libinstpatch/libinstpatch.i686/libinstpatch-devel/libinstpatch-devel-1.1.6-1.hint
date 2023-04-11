@@ -1,0 +1,6 @@
+category: Devel
+requires: libglib2.0-devel libinstpatch libsndfile-devel pkg-config 
+sdesc: "Instrument file software library."
+ldesc: "libInstPatch stands for lib-Instrument-Patch and is a library for processing digital sample based MIDI instrument 'patch' files."
+external-source: libinstpatch
+
