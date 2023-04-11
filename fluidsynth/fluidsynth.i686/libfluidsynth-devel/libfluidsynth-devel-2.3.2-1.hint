@@ -1,0 +1,7 @@
+category: Libs
+requires: libfluidsynth1 libglib2.0-devel libreadline-devel libsndfile-devel pkg-config 
+sdesc: "SoundFont software synthesizer library"
+ldesc: "FluidSynth is a real-time software synthesizer based on the
+SoundFont 2 specifications."
+external-source: fluidsynth
+
