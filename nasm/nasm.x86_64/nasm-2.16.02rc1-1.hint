@@ -1,0 +1,7 @@
+category: Devel
+requires: cygwin
+sdesc: "The Netwide Assembler"
+ldesc: "NASM is a widespread, portable, very flexible and mature
+assembler tool with support for many output formats licensed under the
+2-clause BSD license."
+

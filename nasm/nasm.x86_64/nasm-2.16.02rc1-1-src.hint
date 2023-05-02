@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport 
+sdesc: "The Netwide Assembler"
+ldesc: "NASM is a widespread, portable, very flexible and mature
+assembler tool with support for many output formats licensed under the
+2-clause BSD license."
+skip:
+
+homepage: http://www.nasm.us/
+license: BSD-2-Clause
