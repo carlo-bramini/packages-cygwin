@@ -1,0 +1,5 @@
+category: Libs
+requires: 
+sdesc: "HTTP and WebDAV library (documentation)"
+ldesc: "neon is an HTTP and WebDAV client library, with a C interface."
+

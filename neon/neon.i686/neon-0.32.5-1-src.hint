@@ -1,0 +1,8 @@
+category: Libs
+build-depends: cygport 
+sdesc: "HTTP and WebDAV library (documentation)"
+ldesc: "neon is an HTTP and WebDAV client library, with a C interface."
+skip:
+
+homepage: http://www.webdav.org/neon/
+license: LGPL-3.0

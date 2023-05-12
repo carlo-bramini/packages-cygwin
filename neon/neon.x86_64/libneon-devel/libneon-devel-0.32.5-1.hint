@@ -1,0 +1,6 @@
+category: Devel Libs
+requires: bash libneon27 pkg-config coreutils sed
+sdesc: "HTTP and WebDAV library (development)"
+ldesc: "neon is an HTTP and WebDAV client library, with a C interface."
+external-source: neon
+
