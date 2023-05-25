@@ -11,3 +11,4 @@ than libcrypto (from openssl)."
 skip:
 
 homepage: http://www.libssh.org/
+license: LGPL2.1

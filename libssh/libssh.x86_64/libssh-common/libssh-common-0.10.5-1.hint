@@ -1,5 +1,5 @@
-category: Devel
-build-depends: cygport 
+category: Net
+requires: 
 sdesc: "SSH implementation library"
 ldesc: "The ssh library was designed to be used by programmers needing a
 working SSH implementation by the mean of a library. The complete
@@ -8,6 +8,5 @@ remotely execute programs, transfer files, use a secure and transparent
 tunnel for your remote programs. With its Secure FTP implementation, you
 can play with remote files easily, without third-party programs others
 than libcrypto (from openssl)."
-skip:
+external-source: libssh
 
-homepage: http://www.libssh.org/
