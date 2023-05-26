@@ -1,0 +1,8 @@
+category: Audio
+build-depends: cygport 
+sdesc: "Software synthesizer tools"
+ldesc: "Software synthesizer emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I"
+skip:
+
+homepage: http://munt.sourceforge.net
+license: GPL-2.0

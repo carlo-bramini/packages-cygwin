@@ -1,0 +1,6 @@
+category: Libs
+requires: libmunt pkg-config
+sdesc: "Software synthesizer library"
+ldesc: "Software synthesizer emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I"
+external-source: munt
+

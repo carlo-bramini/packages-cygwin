@@ -1,0 +1,5 @@
+category: Audio
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ pkg-config
+sdesc: "Software synthesizer"
+ldesc: "Software synthesizer emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I"
+
