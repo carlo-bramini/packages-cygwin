@@ -1,5 +1,5 @@
 category: Devel
-requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ pkg-config 
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ pkg-config
 sdesc: "Library to play Commodore 64 music, derived from libsidplay2."
 ldesc: "Library to play Commodore 64 music based on libsidplay2
 	libsidplayfp (and its console frontend sidplayfp) is a fork of sidplay2 born
