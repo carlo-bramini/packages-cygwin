@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: adplug
+sdesc: "Debug info for adplug"
+ldesc: "This package contains files necessary for debugging the
+adplug package with gdb."
+
