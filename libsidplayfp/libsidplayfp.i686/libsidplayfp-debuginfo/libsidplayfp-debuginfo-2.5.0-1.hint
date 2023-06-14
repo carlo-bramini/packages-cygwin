@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libsidplayfp
+sdesc: "Debug info for libsidplayfp"
+ldesc: "This package contains files necessary for debugging the
+libsidplayfp package with gdb."
+

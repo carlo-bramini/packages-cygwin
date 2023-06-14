@@ -1,0 +1,9 @@
+category: Devel
+requires: libstilview0 pkg-config 
+sdesc: "Library to play Commodore 64 music, derived from libsidplay2."
+ldesc: "Library to play Commodore 64 music based on libsidplay2
+	libsidplayfp (and its console frontend sidplayfp) is a fork of sidplay2 born
+	with the aim to improve the quality of emulating the 6581, 8580 chips and the
+	surrounding C64 system in order to play SID music better."
+external-source: libsidplayfp
+
