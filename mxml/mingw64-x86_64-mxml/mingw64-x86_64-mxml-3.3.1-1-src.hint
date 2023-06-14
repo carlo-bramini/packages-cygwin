@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Tiny XML Library"
+ldesc: "Mini-XML is a tiny XML library that you can use to read
+ and write XML and XML-like data files in your application without
+ requiring large non-standard libraries."
+skip:
+
+homepage: https://www.msweet.org/mxml/
+license: Apache-2.0
