@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: a2ps
+sdesc: "Debug info for a2ps"
+ldesc: "This package contains files necessary for debugging the
+a2ps package with gdb."
+
