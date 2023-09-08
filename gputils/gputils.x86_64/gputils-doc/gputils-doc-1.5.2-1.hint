@@ -1,0 +1,6 @@
+category: Devel
+requires: 
+sdesc: "GNU PIC utilities (documentation)"
+ldesc: "GNU utilities for the Microchip PIC microcontrollers contain an assembler (compatible with MPASM), a disassembler and other tools."
+external-source: gputils
+

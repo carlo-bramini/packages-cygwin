@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "GNU PIC utilities (runtime)"
+ldesc: "GNU utilities for the Microchip PIC microcontrollers contain an assembler (compatible with MPASM), a disassembler and other tools."
+skip:
+
+homepage: http://gputils.sourceforge.net/
+license: GPL-2.0
