@@ -1,0 +1,6 @@
+category: Devel
+requires: bash cygwin libgcc1 libncursesw10 libreadline7 libstdc++6 python3 zlib0 
+sdesc: "Small Device C Compiler"
+ldesc: "SDCC is a C compiler for the Intel MCS51 family, HC08, PIC, DS80S390, Z80, Z180 and STM8 microcontrollers.
+This package includes the compiler, assemblers and linkers."
+

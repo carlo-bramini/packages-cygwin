@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Small Device C Compiler"
+ldesc: "SDCC is a C compiler for the Intel MCS51 family, HC08, PIC, DS80S390, Z80, Z180 and STM8 microcontrollers.
+This package includes the compiler, assemblers and linkers."
+skip:
+
+homepage: https://sdcc.sourceforge.net/
+license: GPL-2.0

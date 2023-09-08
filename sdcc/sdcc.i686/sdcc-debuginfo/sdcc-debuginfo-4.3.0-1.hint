@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: sdcc
+sdesc: "Debug info for sdcc"
+ldesc: "This package contains files necessary for debugging the
+sdcc package with gdb."
+
