@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Library for accessing SEGGER J-Link and compatible devices"
+ldesc: "libjaylink provides functions for interacting with Segger J-Link USB programmers/debuggers."
+skip:
+
+homepage: https://sdcc.sourceforge.net/
+license: GPL-2.0

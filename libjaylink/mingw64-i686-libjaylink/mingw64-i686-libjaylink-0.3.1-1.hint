@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-i686-libusb1.0 pkg-config
+sdesc: "Library for accessing SEGGER J-Link and compatible devices"
+ldesc: "libjaylink provides functions for interacting with Segger J-Link USB programmers/debuggers."
+
