@@ -1,0 +1,8 @@
+category: Devel
+requires: libgmp-devel libosl0 pkg-config 
+sdesc: "OpenScop Library development"
+ldesc: "OpenScop is an open specification defining a file format and a set of data structures
+ to represent a static control part (SCoP for short), i.e., a program part that can be represented
+ in the polyhedral model."
+external-source: osl
+
