@@ -1,0 +1,6 @@
+category: Libs
+requires: cygwin 
+sdesc: "USB HID library"
+ldesc: "C Library for USB/Bluetooth HID device access from Linux, Mac OS X, FreeBSD, and Windows."
+external-source: hidapi
+

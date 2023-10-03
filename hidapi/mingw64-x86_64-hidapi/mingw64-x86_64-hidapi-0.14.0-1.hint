@@ -1,0 +1,5 @@
+category: Devel
+requires: pkg-config
+sdesc: "USB HID library for Win64 toolchain"
+ldesc: "C Library for USB/Bluetooth HID device access from Linux, Mac OS X, FreeBSD, and Windows."
+
