@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: catch2
+sdesc: "Debug info for catch2"
+ldesc: "This package contains files necessary for debugging the
+catch2 package with gdb."
+

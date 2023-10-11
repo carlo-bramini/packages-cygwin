@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "C++ test framework for unit-tests"
+ldesc: "Catch2 is a unit testing framework for C++, but it also provides basic micro-benchmarking features, and simple BDD macros."
+skip:
+
+homepage: https://github.com/catchorg/catch2
+license: Boost
