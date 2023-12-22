@@ -1,5 +1,5 @@
 category: Net
-requires: cygwin libgcc1 libgssapi_krb5_2 libssl1.1 zlib0 libssh-common
+requires: cygwin libgcc1 libgssapi_krb5_2 libssl3 zlib0 libssh-common
 sdesc: "SSH implementation library"
 ldesc: "The ssh library was designed to be used by programmers needing a
 working SSH implementation by the mean of a library. The complete

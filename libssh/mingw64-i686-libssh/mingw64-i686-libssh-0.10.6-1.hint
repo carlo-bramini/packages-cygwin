@@ -1,5 +1,5 @@
 category: Devel
-requires: mingw64-i686-gcc-core mingw64-i686-winpthreads mingw64-i686-zlib pkg-config
+requires: mingw64-i686-gcc-core mingw64-i686-openssl mingw64-i686-winpthreads mingw64-i686-zlib pkg-config
 sdesc: "SSH implementation library"
 ldesc: "The ssh library was designed to be used by programmers needing a
 working SSH implementation by the mean of a library. The complete
