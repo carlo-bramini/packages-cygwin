@@ -1,0 +1,15 @@
+category: Devel
+build-depends: cygport 
+sdesc: "The C library for AVR 8-bit RISC microcontrollers."
+ldesc: "
+This is the standard library for Atmel AVR devices together with the AVR-GCC compiler.
+The library contains most of the functionality required by the ISO C standard, with
+the notable exception of wchar_t support. It also contains a lot of auxiliary
+functionality targeted to the AVR controller family. Further, it includes customizable
+startup code, tailored to work together with the linker scripts provided by the
+GNU binutils, so for most AVR applications, there is usually no need to provide
+project-specific files for that purpose."
+skip:
+
+homepage: https://github.com/avrdudes/avr-libc
+license: BSD-3
