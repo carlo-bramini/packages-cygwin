@@ -1,8 +1,0 @@
-category: Devel
-build-depends: cygport 
-sdesc: "GNU assembler, linker, and similar utilities for AVR-GCC toolchain"
-ldesc: "This directory contains various GNU compilers, assemblers, linkers,
-debuggers, etc., plus their support routines, definitions, and documentation."
-skip:
-
-homepage: http://www.gnu.org/software/binutils/
