@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport 
+sdesc: "The GNU Debugger for AVR 8-bit RISC microcontrollers."
+ldesc: "The GNU Debugger is a source-level debugger, capable of
+breaking programs at any specific line, displaying variable values,
+and determining where errors occurred. AVR-GDB supports C and C++."
+skip:
+
+homepage: https://www.gnu.org/software/gdb/
+license: GPL-3.0

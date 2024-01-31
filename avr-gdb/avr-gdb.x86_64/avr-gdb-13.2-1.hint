@@ -1,0 +1,7 @@
+category: Devel
+requires: bash cygwin libgcc1 libgmp10 libiconv2 liblzma5 libmpfr6 libncursesw10 libreadline7 libstdc++6 libzstd1 zlib0
+sdesc: "The GNU Debugger for AVR 8-bit RISC microcontrollers."
+ldesc: "The GNU Debugger is a source-level debugger, capable of
+breaking programs at any specific line, displaying variable values,
+and determining where errors occurred. AVR-GDB supports C and C++."
+
