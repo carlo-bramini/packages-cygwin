@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "GCC (avr) toolchain"
+ldesc: "The GNU Compiler Collection includes front ends for C, C++,
+Objective-C and Fortran, as well as libraries for these languages
+(libstdc++, libgfortran,...)."
+skip:
+
+homepage: https://gcc.gnu.org/

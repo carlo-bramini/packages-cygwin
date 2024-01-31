@@ -1,0 +1,8 @@
+category: Devel
+requires: cygwin libgmp10 libiconv2 libisl23 libmpc3 libmpfr6 libzstd1 zlib0 avr-gcc-core
+sdesc: "GCC (avr) toolchain (C++)"
+ldesc: "The GNU Compiler Collection includes front ends for C, C++,
+Objective-C and Fortran, as well as libraries for these languages
+(libstdc++, libgfortran,...)."
+external-source: avr-gcc
+
