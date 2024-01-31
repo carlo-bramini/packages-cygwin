@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: avrdude
+sdesc: "Debug info for avrdude"
+ldesc: "This package contains files necessary for debugging the
+avrdude package with gdb."
+

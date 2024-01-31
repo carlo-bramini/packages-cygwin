@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "AVRDUDE programming utility"
+ldesc: "Download/upload/manipulate the ROM and EEPROM contents of AVR 8-bit microcontrollers."
+skip:
+
+homepage: https://github.com/avrdudes/avrdude/
+license: GPL-2.0
