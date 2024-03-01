@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: arm-none-eabi-binutils
+sdesc: "Debug info for arm-none-eabi-binutils"
+ldesc: "This package contains files necessary for debugging the
+arm-none-eabi-binutils package with gdb."
+
