@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Standard C library for ARM bare metal"
+ldesc: "The C standard library implementation for embedded systems (ARM bare metal)."
+skip:
+
+homepage: https://www.sourceware.org/newlib/
+license: BSD
