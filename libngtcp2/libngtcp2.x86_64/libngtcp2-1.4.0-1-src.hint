@@ -1,0 +1,8 @@
+category: Libs
+build-depends: cygport 
+sdesc: "Implementation of IETF QUIC protocol"
+ldesc: "ngtcp2 project is an effort to implement RFC9000 QUIC protocol."
+skip:
+
+homepage: https://github.com/ngtcp2/ngtcp2
+license: MIT

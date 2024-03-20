@@ -1,0 +1,5 @@
+category: Libs
+requires: cygwin libgcc1
+sdesc: "Implementation of IETF QUIC protocol"
+ldesc: "ngtcp2 project is an effort to implement RFC9000 QUIC protocol."
+
