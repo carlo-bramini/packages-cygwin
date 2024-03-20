@@ -1,0 +1,6 @@
+category: Libs
+requires: pkg-config
+sdesc: "HTTP/3 library written in C"
+ldesc: "nghttp3 is an implementation of RFC 9114 HTTP/3 mapping over QUIC and RFC 9204 QPACK in C."
+external-source: libnghttp3
+

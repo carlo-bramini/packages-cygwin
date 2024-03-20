@@ -1,0 +1,8 @@
+category: Libs
+build-depends: cygport 
+sdesc: "HTTP/3 library written in C"
+ldesc: "nghttp3 is an implementation of RFC 9114 HTTP/3 mapping over QUIC and RFC 9204 QPACK in C."
+skip:
+
+homepage: https://github.com/ngtcp2/nghttp3
+license: MIT
