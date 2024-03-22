@@ -1,7 +1,0 @@
-category: Devel
-requires: bash mingw64-x86_64-runtime mingw64-x86_64-win-iconv pkg-config
-sdesc: "Simple DirectMedia Layer core library for Win32 toolchain"
-ldesc: "This is the Simple DirectMedia Layer, a general API that provides
-low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL,
-and 2D framebuffer across multiple platforms."
-
