@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Cross compiler for ARM EABI (bare-metal) target"
+ldesc: "The GNU Compiler Collection includes front ends for C, C++,
+Objective-C, Fortran, Java, and Ada, as well as libraries for these languages
+(libstdc++, libgcj, etc.)."
+skip:
+
+homepage: https://gcc.gnu.org/
+license: GPL-2.0
