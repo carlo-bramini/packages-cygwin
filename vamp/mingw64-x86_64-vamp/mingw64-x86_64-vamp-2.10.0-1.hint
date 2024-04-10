@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-winpthreads pkg-config
+sdesc: "Vamp is an audio processing plugin system for plugins that extract descriptive information from audio data."
+ldesc: "Vamp is an audio processing plugin system for plugins that extract descriptive information from audio data."
+

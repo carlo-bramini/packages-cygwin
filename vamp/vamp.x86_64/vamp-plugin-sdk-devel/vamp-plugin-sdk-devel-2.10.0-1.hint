@@ -1,0 +1,6 @@
+category: Devel
+requires: cygwin-devel pkg-config
+sdesc: "Vamp is an audio processing plugin system for plugins that extract descriptive information from audio data."
+ldesc: "Vamp is an audio processing plugin system for plugins that extract descriptive information from audio data."
+external-source: vamp
+
