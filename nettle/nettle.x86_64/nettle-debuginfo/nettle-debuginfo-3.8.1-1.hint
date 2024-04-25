@@ -1,7 +1,0 @@
-category: Debug
-requires: cygwin-debuginfo
-external-source: nettle
-sdesc: "Debug info for nettle"
-ldesc: "This package contains files necessary for debugging the
-nettle package with gdb."
-
