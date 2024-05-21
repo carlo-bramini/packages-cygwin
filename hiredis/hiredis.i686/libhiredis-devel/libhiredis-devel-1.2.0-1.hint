@@ -1,0 +1,6 @@
+category: Devel
+requires: libhiredis pkg-config
+sdesc: "Minimalistic C client library for Redis"
+ldesc: "Hiredis is a minimalistic C client library for the Redis database."
+external-source: hiredis
+
