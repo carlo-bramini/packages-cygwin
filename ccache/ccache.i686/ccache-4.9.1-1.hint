@@ -1,0 +1,7 @@
+category: Devel
+requires: cygwin libgcc1 libstdc++6 libzstd1
+sdesc: "Compiler cache that speeds up recompilation"
+ldesc: "Ccache is a compiler cache. It speeds up recompilation 
+by caching previous compilations and detecting when the same compilation 
+is being done again."
+

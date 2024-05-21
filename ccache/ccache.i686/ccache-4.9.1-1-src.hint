@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Compiler cache that speeds up recompilation"
+ldesc: "Ccache is a compiler cache. It speeds up recompilation 
+by caching previous compilations and detecting when the same compilation 
+is being done again."
+skip:
+
+homepage: https://ccache.dev/
+license: GPL-3.0
