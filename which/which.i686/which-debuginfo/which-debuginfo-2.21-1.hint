@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: which
+sdesc: "Debug info for which"
+ldesc: "This package contains files necessary for debugging the
+which package with gdb."
+
