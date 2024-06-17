@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: mpg123
+sdesc: "Debug info for mpg123"
+ldesc: "This package contains files necessary for debugging the
+mpg123 package with gdb."
+
