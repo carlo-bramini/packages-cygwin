@@ -1,0 +1,8 @@
+category: Audio
+requires: cygwin libcairo2 libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk3_0 libiconv2 libintl8 libpango1.0_0 libQt5Core5 libQt5Gui5 libstdc++6
+sdesc: "GTK audio player, fork of BMP/XMMS"
+ldesc: "Audacious is an advanced audio player. It is free, lightweight,
+based on GTK+, runs on Linux and many other *nix platforms and is focused on
+audio quality and supporting a wide range of audio codecs. Audacious is a fork
+of Beep Media Player (BMP), which itself forked from XMMS."
+
