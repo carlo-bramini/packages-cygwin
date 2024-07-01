@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Binutils for DJGPP toolchain"
+ldesc: "Assember, linker, and other binary utilities required for the
+DJGPP cross-compiling toolchain"
+skip:
+
+homepage: http://www.gnu.org/software/binutils/

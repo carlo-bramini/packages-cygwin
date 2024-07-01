@@ -1,0 +1,6 @@
+category: Devel
+requires: 
+sdesc: "Binutils for DJGPP toolchain"
+ldesc: "Assember, linker, and other binary utilities required for the
+DJGPP cross-compiling toolchain"
+
