@@ -1,0 +1,9 @@
+category: Libs
+build-depends: cygport 
+sdesc: "The Modbus protocol library. library"
+ldesc: "libmodbus is a free software library to send/receive data
+ with a device which respects the Modbus protocol."
+skip:
+
+homepage: https://libmodbus.org
+license: LGPL

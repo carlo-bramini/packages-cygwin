@@ -1,0 +1,7 @@
+category: Devel
+requires: libmodbus pkg-config
+sdesc: "The Modbus protocol library. (development files)"
+ldesc: "libmodbus is a free software library to send/receive data
+ with a device which respects the Modbus protocol."
+external-source: libmodbus
+
