@@ -1,5 +1,5 @@
 category: Net
-requires: libssh4 pkg-config 
+requires: 
 sdesc: "SSH implementation library"
 ldesc: "The ssh library was designed to be used by programmers needing a
 working SSH implementation by the mean of a library. The complete
