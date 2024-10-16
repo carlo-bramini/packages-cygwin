@@ -1,0 +1,8 @@
+category: Libs
+build-depends: cygport 
+sdesc: "C Markdown parser"
+ldesc: "MD4C is fast and portable Markdown parser implementation written in C."
+skip:
+
+homepage: https://github.com/mity/md4c
+license: MIT

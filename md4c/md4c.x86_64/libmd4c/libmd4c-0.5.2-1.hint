@@ -1,0 +1,6 @@
+category: Libs
+requires: cygwin
+sdesc: "C Markdown parser"
+ldesc: "MD4C is fast and portable Markdown parser implementation written in C."
+external-source: md4c
+

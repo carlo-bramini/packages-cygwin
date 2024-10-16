@@ -1,0 +1,5 @@
+category: Devel
+requires: pkg-config
+sdesc: "C Markdown parser"
+ldesc: "MD4C is fast and portable Markdown parser implementation written in C."
+
