@@ -1,0 +1,6 @@
+category: Devel
+requires: cygwin
+sdesc: "Assembler for the 6502, 6510, 65c02 and 65816 processors"
+ldesc: "ACME is a fast and free cross assembler for 6502,
+ 6510 (including illegal opcodes), 65c02 and 65816 processors."
+
