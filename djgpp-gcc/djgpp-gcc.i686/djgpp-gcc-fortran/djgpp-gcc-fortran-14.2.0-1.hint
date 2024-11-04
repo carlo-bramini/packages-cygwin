@@ -1,0 +1,9 @@
+category: Devel
+requires: cygwin libgmp10 libiconv2 libisl23 libmpc3 libmpfr6 libzstd1 zlib0 djgpp-gcc-core
+sdesc: "GCC for DJGPP toolchain (Fortran)"
+ldesc: "The GNU Compiler Collection includes front ends for C, C++,
+Objective-C, Fortran, Java, and Ada, as well as libraries for these languages
+(libstdc++, libgcj, etc.).  This package provides cross-compilers for the
+DJGPP platform."
+external-source: djgpp-gcc
+

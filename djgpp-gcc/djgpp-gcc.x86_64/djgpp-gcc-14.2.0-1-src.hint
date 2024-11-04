@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport 
+sdesc: "GCC for DJGPP toolchain"
+ldesc: "The GNU Compiler Collection includes front ends for C, C++,
+Objective-C, Fortran, Java, and Ada, as well as libraries for these languages
+(libstdc++, libgcj, etc.).  This package provides cross-compilers for the
+DJGPP platform."
+skip:
+
+homepage: http://www.delorie.com/
