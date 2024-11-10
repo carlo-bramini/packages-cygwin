@@ -1,0 +1,6 @@
+category: Devel
+requires: mingw64-i686-flac mingw64-i686-gcc-core mingw64-i686-lame mingw64-i686-libogg mingw64-i686-libvorbis mingw64-i686-mpg123 mingw64-i686-opus pkg-config
+sdesc: "Sampled audio data library"
+ldesc: "libsndfile is a library of C routines for reading and writing
+files containing sampled audio data."
+

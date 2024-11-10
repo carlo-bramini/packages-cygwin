@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Sampled audio data library"
+ldesc: "libsndfile is a library of C routines for reading and writing
+files containing sampled audio data."
+skip:
+
+homepage: http://libsndfile.github.io/libsndfile/
+license: LGPL2.1
