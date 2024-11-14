@@ -1,0 +1,6 @@
+category: Devel
+requires: cygwin
+sdesc: "Tool for creating romfs images"
+ldesc: "genromfs is used to create a romfs file system image, usually
+ directly on a block device, or for test purposes, in a plain file."
+
