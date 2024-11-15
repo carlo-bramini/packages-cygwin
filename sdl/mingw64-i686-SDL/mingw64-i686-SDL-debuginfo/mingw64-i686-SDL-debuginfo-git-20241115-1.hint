@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: mingw64-i686-SDL
+sdesc: "Debug info for mingw64-i686-SDL"
+ldesc: "This package contains files necessary for debugging the
+mingw64-i686-SDL package with gdb."
+
