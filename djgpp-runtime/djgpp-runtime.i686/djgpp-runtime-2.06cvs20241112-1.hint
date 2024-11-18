@@ -1,0 +1,6 @@
+category: Devel
+requires: cygwin libgcc1 libstdc++6 djgpp-binutils djgpp-gcc-core
+sdesc: "DJGPP toolchain C runtime"
+ldesc: "DJGPP is a complete 32-bit C/C++ development system for Intel
+80386 (and higher) PCs running DOS."
+

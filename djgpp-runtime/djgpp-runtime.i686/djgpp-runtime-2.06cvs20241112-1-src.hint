@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "DJGPP toolchain C runtime"
+ldesc: "DJGPP is a complete 32-bit C/C++ development system for Intel
+80386 (and higher) PCs running DOS."
+skip:
+
+homepage: http://www.delorie.com/djgpp/
