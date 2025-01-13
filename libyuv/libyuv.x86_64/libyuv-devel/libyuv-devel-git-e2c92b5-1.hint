@@ -1,0 +1,6 @@
+category: Devel
+requires: libyuv-git-e2c92b5
+sdesc: "Library for YUV scaling"
+ldesc: "libyuv is an open source project that includes YUV scaling and conversion functionality."
+external-source: libyuv
+

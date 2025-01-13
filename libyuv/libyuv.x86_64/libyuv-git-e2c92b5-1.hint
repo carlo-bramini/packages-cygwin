@@ -1,0 +1,5 @@
+category: Libs
+requires: cygwin libgcc1 libjpeg8 libstdc++6
+sdesc: "Library for YUV scaling"
+ldesc: "libyuv is an open source project that includes YUV scaling and conversion functionality."
+

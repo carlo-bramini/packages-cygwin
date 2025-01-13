@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-libjpeg-turbo mingw64-x86_64-libyuv-git-e2c92b5
+sdesc: "Library for YUV scaling for Win64 toolchain"
+ldesc: "libyuv is an open source project that includes YUV scaling and conversion functionality."
+
