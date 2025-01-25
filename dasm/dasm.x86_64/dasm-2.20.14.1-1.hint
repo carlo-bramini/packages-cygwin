@@ -1,0 +1,6 @@
+category: Devel
+requires: cygwin
+sdesc: "Assembler for 8-bit microprocessors"
+ldesc: "A versatile macro assembler with support for several 8-bit
+microprocessors including 6502, 6507, 6803, HD6303, 68HC11, 68705, and F8"
+

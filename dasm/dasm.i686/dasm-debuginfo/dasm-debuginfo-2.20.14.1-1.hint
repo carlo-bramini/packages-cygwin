@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: dasm
+sdesc: "Debug info for dasm"
+ldesc: "This package contains files necessary for debugging the
+dasm package with gdb."
+
