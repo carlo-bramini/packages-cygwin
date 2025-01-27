@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Google Test - C++ testing utility for Win32 toolchain"
+ldesc: "GoogleTest is Google’s C++ testing and mocking framework."
+skip:
+
+homepage: https://google.github.io/googletest/
+license: BSD-3-Clause

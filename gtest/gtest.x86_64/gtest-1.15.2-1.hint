@@ -1,0 +1,5 @@
+category: Libs
+requires: cygwin libgcc1 libstdc++6
+sdesc: "Google Test - C++ testing utility"
+ldesc: "GoogleTest is Google’s C++ testing and mocking framework."
+

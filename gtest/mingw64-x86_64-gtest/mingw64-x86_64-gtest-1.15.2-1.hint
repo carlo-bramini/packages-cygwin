@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-winpthreads pkg-config
+sdesc: "Google Test - C++ testing utility for Win64 toolchain"
+ldesc: "GoogleTest is Google’s C++ testing and mocking framework."
+
