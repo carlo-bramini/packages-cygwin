@@ -1,0 +1,7 @@
+category: Devel
+requires: libdjinterop libsqlite3-devel pkg-config zlib-devel
+sdesc: "C++ library for access to DJ record libraries "
+ldesc: "The libdjinterop library is a C++ library that allows access
+to database formats used to store information about DJ record libraries."
+external-source: libdjinterop
+
