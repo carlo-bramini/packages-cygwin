@@ -1,0 +1,6 @@
+category: Devel
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ mingw64-i686-sqlite3 mingw64-i686-zlib
+sdesc: "C++ library for access to DJ record libraries for Win32 toolchain"
+ldesc: "The libdjinterop library is a C++ library that allows access
+to database formats used to store information about DJ record libraries."
+

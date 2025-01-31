@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "C++ library for access to DJ record libraries for Win32 toolchain"
+ldesc: "The libdjinterop library is a C++ library that allows access
+to database formats used to store information about DJ record libraries."
+skip:
+
+homepage: https://github.com/xsco/libdjinterop
+license: GPLv3
