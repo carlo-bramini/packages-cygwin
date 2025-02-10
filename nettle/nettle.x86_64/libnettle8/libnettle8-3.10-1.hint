@@ -1,5 +1,5 @@
 category: Devel
-requires: cygwin libgcc1 
+requires: cygwin
 sdesc: "Low-level cryptographic library"
 ldesc: "Nettle is a cryptographic library that is designed to fit easily
 in more or less any context: In crypto toolkits for object-oriented languages,

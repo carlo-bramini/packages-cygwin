@@ -1,8 +1,10 @@
 category: Devel
-requires: mingw64-i686-gcc-core mingw64-i686-gmp pkg-config 
-sdesc: "Low-level cryptographic library for Win64 toolchain"
+build-depends: cygport 
+sdesc: "Low-level cryptographic library for Win32 toolchain"
 ldesc: "This package does NOT contain cygwin binaries.
 Instead, it contains msvcrt-linked binaries.  It is for use with the
 mingw64-x86_64-gcc cross compiler, and installs into the
 /usr/x86_64-w64-mingw32/sys-root/mingw/{lib,include} directories."
+skip:
 
+homepage: http://www.lysator.liu.se/~nisse/nettle/
