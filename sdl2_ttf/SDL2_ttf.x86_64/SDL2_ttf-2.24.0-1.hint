@@ -1,0 +1,7 @@
+category: Libs
+requires: cygwin libfreetype6 libSDL2_2.0_0
+sdesc: "SDL2 TrueType font library"
+ldesc: "This is the Simple DirectMedia Layer, a general API that provides
+low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL,
+and 2D framebuffer across multiple platforms."
+
