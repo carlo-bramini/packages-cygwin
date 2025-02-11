@@ -1,6 +1,6 @@
 category: Devel
 build-depends: cygport 
-sdesc: "SoundFont software synthesizer for Win32 toolchain"
+sdesc: "SoundFont software synthesizer for Win64 toolchain"
 ldesc: "FluidSynth is a real-time software synthesizer based on the
 SoundFont 2 specifications."
 skip:
