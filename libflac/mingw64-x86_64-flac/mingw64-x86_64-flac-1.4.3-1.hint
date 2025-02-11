@@ -1,6 +1,6 @@
 category: Devel
-requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-libogg pkg-config 
-sdesc: "Xiph FLAC codec for Win32 toolchain"
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-libogg pkg-config
+sdesc: "Xiph FLAC codec for Win64 toolchain"
 ldesc: "FLAC stands for Free Lossless Audio Codec, an audio format similar
 to MP3, but lossless, meaning that audio is compressed in FLAC without any loss
 in quality."

@@ -1,7 +1,0 @@
-category: Audio
-build-depends: cygport 
-sdesc: "Free Lossless Audio Codec"
-ldesc: "FLAC is an Open Source lossless audio codec developed by Josh Coalson."
-skip:
-
-homepage: http://www.xiph.org
