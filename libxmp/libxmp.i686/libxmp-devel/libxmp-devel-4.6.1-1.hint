@@ -1,0 +1,7 @@
+category: Devel
+requires: libxmp pkg-config
+sdesc: "Library with supports for over 90 module formats"
+ldesc: "Libxmp loads audio modules and renders the sound as
+linear PCM samples in a buffer at rate and format specified by the user."
+external-source: libxmp
+
