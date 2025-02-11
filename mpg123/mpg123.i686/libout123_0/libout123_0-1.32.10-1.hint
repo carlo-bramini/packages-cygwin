@@ -1,9 +1,8 @@
-category: Devel
-build-depends: cygport 
-sdesc: "MPEG audio decoder for Win32 platform"
+category: Libs
+requires: cygwin libgcc1
+sdesc: "MPG123 audio interface library (runtime)"
 ldesc: "mpg123 is a cross-platform, real time MPEG 1.0/2.0/2.5 audio
 player/decoder for layers 1,2 and 3 (MPEG 1.0 layer 3 aka MP3 most
 commonly tested)."
-skip:
+external-source: mpg123
 
-homepage: http://www.mpg123.de/

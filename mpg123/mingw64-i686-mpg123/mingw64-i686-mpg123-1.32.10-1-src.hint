@@ -1,7 +1,9 @@
 category: Devel
-requires: pkg-config
-sdesc: "MPEG audio decoder for Win32 platform"
+build-depends: cygport 
+sdesc: "MPEG audio decoder for Win32 toolchain"
 ldesc: "mpg123 is a cross-platform, real time MPEG 1.0/2.0/2.5 audio
 player/decoder for layers 1,2 and 3 (MPEG 1.0 layer 3 aka MP3 most
 commonly tested)."
+skip:
 
+homepage: http://www.mpg123.de/
