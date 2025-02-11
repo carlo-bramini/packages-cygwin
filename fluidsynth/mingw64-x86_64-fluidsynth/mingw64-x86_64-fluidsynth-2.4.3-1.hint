@@ -1,6 +1,6 @@
 category: Devel
 requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-gettext mingw64-x86_64-glib2.0 mingw64-x86_64-libsndfile mingw64-x86_64-readline pkg-config
-sdesc: "SoundFont software synthesizer for Win32 toolchain"
+sdesc: "SoundFont software synthesizer for Win64 toolchain"
 ldesc: "FluidSynth is a real-time software synthesizer based on the
 SoundFont 2 specifications."
 
