@@ -1,6 +1,6 @@
 category: Devel
 build-depends: cygport 
-sdesc: "Iconv implemenation for Win32 toolchain"
+sdesc: "Iconv implemenation for Win64 toolchain"
 ldesc: "Iconv implementation which uses the Win32 API to convert."
 skip:
 
