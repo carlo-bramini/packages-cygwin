@@ -1,0 +1,10 @@
+--- origsrc/audacious-plugins-4.4.2/src/mpris2/plugin.cc	2024-11-03 21:02:39.000000000 +0100
++++ src/audacious-plugins-4.4.2/src/mpris2/plugin.cc	2025-02-06 14:32:28.443583800 +0100
+@@ -19,6 +19,7 @@
+ 
+ #include <math.h>
+ #include <stdint.h>
++#include <string.h>
+ 
+ #include <libaudcore/audstrings.h>
+ #include <libaudcore/drct.h>

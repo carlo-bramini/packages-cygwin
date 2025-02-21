@@ -1,7 +1,0 @@
-category: Debug
-requires: cygwin-debuginfo
-external-source: audacious-plugins
-sdesc: "Debug info for audacious-plugins"
-ldesc: "This package contains files necessary for debugging the
-audacious-plugins package with gdb."
-
