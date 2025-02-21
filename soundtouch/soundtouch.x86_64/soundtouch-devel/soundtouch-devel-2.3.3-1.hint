@@ -1,0 +1,8 @@
+category: Devel
+requires: pkg-config soundtouch
+sdesc: "An audio processing library."
+ldesc: "SoundTouch is an open-source audio processing library that
+allows changing the sound tempo, pitch and playback rate parameters
+independently from each other."
+external-source: soundtouch
+

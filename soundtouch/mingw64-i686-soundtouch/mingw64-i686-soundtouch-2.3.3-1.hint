@@ -1,0 +1,7 @@
+category: Devel
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ pkg-config
+sdesc: "An audio processing library for Win32 toolchain."
+ldesc: "SoundTouch is an open-source audio processing library that
+allows changing the sound tempo, pitch and playback rate parameters
+independently from each other."
+
