@@ -1,7 +1,7 @@
 category: Devel
 build-depends: cygport 
-sdesc: "Xiph audio compression codec for Win32 toolchain"
-ldesc: "Xiph audio compression codec for Win32 toolchain"
+sdesc: "Xiph audio compression codec for Win64 toolchain"
+ldesc: "Xiph audio compression codec for Win64 toolchain"
 skip:
 
 homepage: http://www.xiph.org/vorbis/
