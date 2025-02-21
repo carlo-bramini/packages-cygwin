@@ -1,5 +1,5 @@
 category: Devel
-requires: pkg-config 
-sdesc: "Xiph OGG container library for Win32 toolchain"
-ldesc: "Xiph OGG container library for Win32 toolchain"
+requires: pkg-config
+sdesc: "Xiph OGG container library for Win64 toolchain"
+ldesc: "Xiph OGG container library for Win64 toolchain"
 
