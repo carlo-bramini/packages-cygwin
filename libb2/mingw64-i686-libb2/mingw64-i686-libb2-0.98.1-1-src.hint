@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp for Win32 toolchain"
+ldesc: "C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp for Win32 toolchain"
+skip:
+
+homepage: https://github.com/BLAKE2/libb2
+license: CC0-1.0
