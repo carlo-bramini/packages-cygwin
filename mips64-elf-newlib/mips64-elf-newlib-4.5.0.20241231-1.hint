@@ -1,0 +1,5 @@
+category: Devel
+requires: 
+sdesc: "Standard C library for MIPS64 bare metal"
+ldesc: "The C standard library implementation for embedded systems (MIPS64 bare metal)."
+
