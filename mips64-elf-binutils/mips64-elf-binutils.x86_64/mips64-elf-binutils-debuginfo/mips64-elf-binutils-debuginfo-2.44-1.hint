@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: mips64-elf-binutils
+sdesc: "Debug info for mips64-elf-binutils"
+ldesc: "This package contains files necessary for debugging the
+mips64-elf-binutils package with gdb."
+
