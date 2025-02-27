@@ -1,0 +1,7 @@
+category: Devel
+requires: bash cygwin libgmp10 libiconv2 libisl23 libmpc3 libmpfr6 libzstd1 zlib0
+sdesc: "Cross compiler for MIPS64 (bare-metal) target"
+ldesc: "The GNU Compiler Collection includes front ends for C, C++,
+Objective-C, Fortran, Java, and Ada, as well as libraries for these languages
+(libstdc++, libgcj, etc.)."
+
