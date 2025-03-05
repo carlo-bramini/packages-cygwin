@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Tool for generating C-based recognizers from regular expressions"
+ldesc: "Tool for generating C-based recognizers from regular expressions"
+skip:
+
+homepage: https://re2c.org/
+license: Public domain
