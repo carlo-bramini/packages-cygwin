@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ pkg-config
+sdesc: "YAML parser and emitter for Win64 Toolchain"
+ldesc: "YAML parser and emitter in C++, written around the YAML 1.2 spec."
+

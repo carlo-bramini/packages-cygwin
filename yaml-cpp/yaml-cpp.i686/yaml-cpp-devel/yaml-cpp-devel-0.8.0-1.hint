@@ -1,0 +1,6 @@
+category: Devel
+requires: pkg-config yaml-cpp
+sdesc: "YAML parser and emitter in C++, written around the YAML 1.2 spec"
+ldesc: "YAML parser and emitter in C++, written around the YAML 1.2 spec."
+external-source: yaml-cpp
+

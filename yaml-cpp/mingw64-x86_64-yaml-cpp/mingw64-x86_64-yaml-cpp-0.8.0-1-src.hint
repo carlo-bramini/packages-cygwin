@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "YAML parser and emitter for Win64 Toolchain"
+ldesc: "YAML parser and emitter in C++, written around the YAML 1.2 spec."
+skip:
+
+homepage: https://github.com/jbeder/yaml-cpp
+license: MIT
