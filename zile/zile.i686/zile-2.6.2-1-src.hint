@@ -1,0 +1,10 @@
+category: Editors
+build-depends: cygport 
+sdesc: "Small, fast, and powerful Emacs clone"
+ldesc: "GNU Zile is a lightweight Emacs clone.
+Zile is short for Zile Is Lossy Emacs.
+Zile has been written to be as similar as possible to Emacs."
+skip:
+
+homepage: https://sourceforge.net/p/portmedia/wiki/portsmf/
+license: GPL-3

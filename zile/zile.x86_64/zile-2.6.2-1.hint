@@ -1,0 +1,7 @@
+category: Editors
+requires: cygwin libgee0.8_2 libglib2.0_0 libncursesw10
+sdesc: "Small, fast, and powerful Emacs clone"
+ldesc: "GNU Zile is a lightweight Emacs clone.
+Zile is short for Zile Is Lossy Emacs.
+Zile has been written to be as similar as possible to Emacs."
+

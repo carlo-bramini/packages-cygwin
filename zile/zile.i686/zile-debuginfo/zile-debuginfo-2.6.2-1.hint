@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: zile
+sdesc: "Debug info for zile"
+ldesc: "This package contains files necessary for debugging the
+zile package with gdb."
+
