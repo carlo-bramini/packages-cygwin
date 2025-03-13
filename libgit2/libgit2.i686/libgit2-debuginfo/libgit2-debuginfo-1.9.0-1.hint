@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libgit2
+sdesc: "Debug info for libgit2"
+ldesc: "This package contains files necessary for debugging the
+libgit2 package with gdb."
+
