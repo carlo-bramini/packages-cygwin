@@ -1,0 +1,95 @@
+TOOLCHAIN_TARGET="riscv32-unknown-elf"
+inherit toolchain
+
+# Package name
+NAME="riscv32-unknown-elf-gcc"
+VERSION=14.2.0
+RELEASE=1
+
+# .hint generation
+CATEGORY="Devel"
+SUMMARY="Cross compiler for RISC-V/32 (bare-metal) target"
+DESCRIPTION="The GNU Compiler Collection includes front ends for C, C++,
+Objective-C, Fortran, Java, and Ada, as well as libraries for these languages
+(libstdc++, libgcj, etc.)."
+
+# Homepage
+HOMEPAGE="https://gcc.gnu.org/"
+LICENSE="GPL-2.0"
+
+# Source and patch files
+SRC_URI="https://ftp.gnu.org/gnu/gcc/gcc-${VERSION}/gcc-${VERSION}.tar.xz"
+SRC_DIR="gcc-${VERSION}"
+
+# Remove error on debug package handling
+CFLAGS=${CFLAGS/-ggdb/}
+CXXFLAGS=${CXXFLAGS/-ggdb/}
+
+_CYGPORT_RESTRICT_debuginfo_=1
+
+
+CYGCONF_ARGS="
+	--disable-libatomic
+	--disable-libsanitizer
+	--disable-libssp
+	--disable-libgomp
+	--disable-libmudflap
+	--disable-libquadmath
+	--disable-shared
+	--disable-nls
+	--disable-threads
+	--disable-tls
+	--enable-checking=release
+	--enable-languages=c
+	--without-cloog
+	--without-isl
+	--with-newlib
+	--without-headers
+	--with-gnu-as
+	--with-gnu-ld
+	--with-native-system-header-dir=/usr/include
+	--with-system-zlib
+	--with-gmp
+	--with-mpfr
+	--with-mpc
+	--with-isl
+	--enable-silent-rules
+"
+
+src_install() {
+	cd ${B}
+	cyginstall -j1
+
+	# Remove Cygwin-host libiberty.a
+	rm -f ${D}/usr/lib/libiberty.a
+
+	# conflicts with native gcc
+	rm -fr ${D}/usr/share/{gcc-*,info,man/man7}
+}
+
+src_compile() {
+    ___CFLAGS=`echo ${CFLAGS} | sed s/-Werror=format-security/-Wno-format-security/g`
+    ___CFLAGS=`echo ${___CFLAGS} | sed s/\(-Wp,\)\?-D_FORTIFY_SOURCE=[12]//g`
+    ___CFLAGS=`echo ${___CFLAGS} | sed 's/-Werror/-Wno-error/g'`
+    ___CFLAGS=`echo ${___CFLAGS} | sed 's/[[:blank:]]\+/ /g'`
+
+    ___CXXFLAGS=`echo ${CXXFLAGS} | sed s/-Werror=format-security/-Wformat-security/g`
+    ___CXXFLAGS=`echo ${___CXXFLAGS} | sed s/\(-Wp,\)\?-D_FORTIFY_SOURCE=[12]//g`
+    ___CXXFLAGS=`echo ${___CXXFLAGS} | sed 's/-Werror/-Wno-error/g'`
+    ___CXXFLAGS=`echo ${___CXXFLAGS} | sed 's/[[:blank:]]\+/ /g'`
+
+    __FCFLAGS=`echo ${FCFLAGS} | sed s/-Werror=format-security//g`
+    __FCFLAGS=`echo ${__FCFLAGS} | sed s/\(-Wp,\)\?-D_FORTIFY_SOURCE=[12]//g`
+    __FCFLAGS=`echo ${__FCFLAGS} | sed 's/-Werror/-Wno-error/g'`
+    __FCFLAGS=`echo ${__FCFLAGS} | sed 's/[[:blank:]]\+/ /g'`
+
+    export CFLAGS=${___CFLAGS}
+    export CXXFLAGS=${___CXXFLAGS}
+    export FCFLAGS=${__FCFLAGS}
+    export HOST_CFLAGS=${___CFLAGS}
+    export HOST_CXXFLAGS=${___CXXFLAGS}
+    export HOST_FCFLAGS=${__FCFLAGS}
+
+    cd ${B}
+    toolchain_compile
+}
