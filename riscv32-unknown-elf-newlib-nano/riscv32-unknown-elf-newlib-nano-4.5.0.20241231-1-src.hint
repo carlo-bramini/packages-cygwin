@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Standard C library for RISC-V/32 bare metal"
+ldesc: "The C standard library implementation for embedded systems (RISC-V/32 bare metal)."
+skip:
+
+homepage: https://www.sourceware.org/newlib/
+license: BSD
