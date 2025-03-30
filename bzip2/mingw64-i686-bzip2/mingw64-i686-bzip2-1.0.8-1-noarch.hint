@@ -1,5 +1,5 @@
 category: Devel
-requires:  
+requires: pkg-config
 sdesc: "libbz2 for MinGW-w64 Win32 toolchain"
 ldesc: "This package does NOT contain cygwin binaries.  Instead, it
 contains msvcrt-linked binaries (aka 'mingw').  It is for use with the

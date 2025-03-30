@@ -8,3 +8,4 @@ mingw64-x86_64-gcc cross compiler, and installs into the
 skip:
 
 homepage: http://www.bzip.org/
+license: BSD
