@@ -1,0 +1,11 @@
+category: Devel
+build-depends: cygport 
+sdesc: "C macros for hash tables for MinGW-w64 Win64 toolchain"
+ldesc: "uthash is a collection of header-only data-structure libraries for
+hash maps (uthash), linked lists (utlist), dynamic arrays (utarray), dynamic
+ring buffers (utringbuffer), intrusive stacks (utstack), and dynamic strings
+(utstring)."
+skip:
+
+homepage: https://troydhanson.github.io/uthash/
+license: BSD
