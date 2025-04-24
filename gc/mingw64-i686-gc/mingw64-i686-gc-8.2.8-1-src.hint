@@ -1,0 +1,13 @@
+category: Devel
+build-depends: cygport mingw64-i686-libatomic_ops
+sdesc: "Boehm-Demers-Weiser garbage collector library for Win32 toolchain"
+ldesc: "The Boehm-Demers-Weiser conservative garbage collector can be
+used as a garbage collecting replacement for C malloc or C++ new. It
+allows you to allocate memory basically as you normally would, without
+explicitly deallocating memory that is no longer useful. The collector
+automatically recycles memory when it determines that it can no longer
+be otherwise accessed."
+skip:
+
+homepage: http://www.hboehm.info/gc/
+license: GPLv2/MIT
