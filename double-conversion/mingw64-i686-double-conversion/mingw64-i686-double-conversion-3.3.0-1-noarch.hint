@@ -1,0 +1,10 @@
+category: Devel
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++
+sdesc: "Binary-decimal and decimal-binary routines for IEEE doubles for Win32 toolchain"
+ldesc: "Double-conversion provides binary-decimal and decimal-binary
+routines for IEEE doubles. The library consists of efficient conversion
+routines that have been extracted from the V8 JavaScript engine.
+The code has been refactored and improved so that it can be used more
+easily in other projects.
+"
+
