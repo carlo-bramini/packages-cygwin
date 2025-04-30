@@ -1,6 +1,6 @@
-category: Audio
-build-depends: cygport 
-sdesc: "AdLib sound player library"
+category: Devel
+build-depends: cygport mingw64-i686-libbinio
+sdesc: "AdLib sound player library for Win32 toolchain"
 ldesc: "
  AdPlug is a free, cross-platform, hardware independent AdLib sound player
  library, mainly written in C++ and released under the LGPL. AdPlug plays

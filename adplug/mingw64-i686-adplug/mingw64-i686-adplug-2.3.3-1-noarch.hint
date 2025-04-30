@@ -1,6 +1,6 @@
 category: Devel
-build-depends: cygport mingw64-x86_64-libbinio
-sdesc: "AdLib sound player library for Win64 toolchain"
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ pkg-config
+sdesc: "AdLib sound player library for Win32 toolchain"
 ldesc: "
  AdPlug is a free, cross-platform, hardware independent AdLib sound player
  library, mainly written in C++ and released under the LGPL. AdPlug plays
@@ -8,7 +8,4 @@ ldesc: "
  (Dual OPL2/OPL3) audio boards, directly from its original format on top
  of an emulator or by using the real hardware. No OPL chip is required
  for playback."
-skip:
 
-homepage: http://adplug.github.io/
-license: LGPL2.1
