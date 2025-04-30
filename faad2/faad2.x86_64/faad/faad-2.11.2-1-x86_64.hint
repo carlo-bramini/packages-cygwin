@@ -1,9 +1,7 @@
-category: Devel
-build-depends: cygport 
+category: Audio
+requires: cygwin libfaad
 sdesc: "Freeware Advanced Audio (AAC) Decoder"
 ldesc: "FAAD2 is a HE, LC, MAIN and LTP profile, MPEG2 and MPEG-4 AAC decoder.
 FAAD2 includes code for SBR (HE AAC) decoding."
-skip:
+external-source: faad2
 
-homepage: https://sourceforge.net/projects/faac/
-license: GPL-2.0

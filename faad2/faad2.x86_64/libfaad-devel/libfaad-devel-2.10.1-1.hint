@@ -1,7 +1,0 @@
-category: Libs
-requires: libfaad pkg-config
-sdesc: "Freeware Advanced Audio (AAC) Decoder library"
-ldesc: "FAAD2 is a HE, LC, MAIN and LTP profile, MPEG2 and MPEG-4 AAC decoder.
-FAAD2 includes code for SBR (HE AAC) decoding."
-external-source: faad2
-
