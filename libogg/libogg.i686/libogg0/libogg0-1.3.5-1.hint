@@ -1,5 +1,5 @@
-category: Audio Libs
-requires: cygwin 
+category: Libs
+requires: cygwin
 sdesc: "Ogg Bitstream Library (Runtime)"
 ldesc: "Libogg is a library for manipulating ogg bitstreams.  It handles both
 making ogg bitstreams and getting packets from ogg bitstreams."

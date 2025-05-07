@@ -1,6 +1,7 @@
-category: Audio
-requires:  
-sdesc: "Ogg Bitstream Library (Documentation)"
+category: Devel
+requires: libogg0 pkg-config
+sdesc: "Ogg Bitstream Library (Development)"
 ldesc: "Libogg is a library for manipulating ogg bitstreams.  It handles both
 making ogg bitstreams and getting packets from ogg bitstreams."
+external-source: libogg
 
