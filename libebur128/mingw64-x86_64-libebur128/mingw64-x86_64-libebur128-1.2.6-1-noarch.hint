@@ -1,0 +1,6 @@
+category: Devel
+requires: pkg-config
+sdesc: "A library implementing the EBU R128 loudness standard for Win64 toolchain"
+ldesc: "libebur128 is a library that implements the EBU R
+ 128 standard for loudness normalisation."
+

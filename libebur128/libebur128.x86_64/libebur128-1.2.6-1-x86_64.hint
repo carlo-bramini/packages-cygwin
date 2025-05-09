@@ -1,0 +1,6 @@
+category: Libs
+requires: cygwin
+sdesc: "A library implementing the EBU R128 loudness standard"
+ldesc: "libebur128 is a library that implements the EBU R
+ 128 standard for loudness normalisation."
+

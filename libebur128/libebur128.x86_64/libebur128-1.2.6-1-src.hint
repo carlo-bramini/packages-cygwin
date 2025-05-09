@@ -1,0 +1,9 @@
+category: Libs
+build-depends: cygport 
+sdesc: "A library implementing the EBU R128 loudness standard"
+ldesc: "libebur128 is a library that implements the EBU R
+ 128 standard for loudness normalisation."
+skip:
+
+homepage: https://github.com/jiixyj/libebur128
+license: MIT
