@@ -1,0 +1,6 @@
+category: Devel
+requires: pkg-config
+sdesc: "Audio sample rate conversion library for Win64 toolchain"
+ldesc: "libsamplerate (also known as Secret Rabbit Code) is a library
+ for performing sample rate conversion of audio data."
+

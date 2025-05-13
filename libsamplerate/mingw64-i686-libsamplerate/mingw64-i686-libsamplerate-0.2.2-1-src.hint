@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Audio sample rate conversion library for Win32 toolchain"
+ldesc: "libsamplerate (also known as Secret Rabbit Code) is a library
+ for performing sample rate conversion of audio data."
+skip:
+
+homepage: https://libsndfile.github.io/libsamplerate/
+license: BSD-2-Clause
