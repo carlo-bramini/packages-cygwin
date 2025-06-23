@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Alliance for Open Media video codec for Win64 toolchain"
+ldesc: "libaom is a patent free alternative to H.265 and it is
+the reference version of the Alliance for Open Media video codec."
+skip:
+
+homepage: https://aomedia.googlesource.com/aom/
+license: BSD-3-Clause

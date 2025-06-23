@@ -1,0 +1,7 @@
+category: Devel
+requires: libaom pkg-config
+sdesc: "Alliance for Open Media video codec"
+ldesc: "libaom is a patent free alternative to H.265 and it is
+the reference version of the Alliance for Open Media video codec."
+external-source: libaom
+
