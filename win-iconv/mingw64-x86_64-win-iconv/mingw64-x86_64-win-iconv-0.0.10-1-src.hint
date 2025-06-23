@@ -4,4 +4,4 @@ sdesc: "Iconv implemenation for Win64 toolchain"
 ldesc: "Iconv implementation which uses the Win32 API to convert."
 skip:
 
-homepage: http://code.google.com/p/win-iconv/
+homepage: https://github.com/win-iconv/win-iconv
