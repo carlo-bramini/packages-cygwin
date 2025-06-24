@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Fast non-cryptographic hash algorithm for Win64 toolchain"
+ldesc: "xxHash is an extremely fast non-cryptographic hash algorithm, working
+at RAM speed limit. It is proposed in four flavors (XXH32, XXH64, XXH3_64bits and XXH3_128bits)."
+skip:
+
+homepage: https://xxhash.com/
+license: BSD-2-Clause,GPL-2.0-or-later
