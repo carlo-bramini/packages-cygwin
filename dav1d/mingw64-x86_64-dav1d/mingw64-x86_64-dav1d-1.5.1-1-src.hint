@@ -1,0 +1,11 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-xxhash
+sdesc: "AV1 cross-platform decoder for Win64 toolchain"
+ldesc: "This package does NOT contain cygwin binaries.  Instead, it
+contains msvcrt-linked binaries (aka 'mingw').  It is for use with the
+mingw64-x86_64-gcc cross compiler, and installs into the
+/usr/x86_64-w64-mingw32/sys-root/mingw/{lib,include} directories."
+skip:
+
+homepage: https://code.videolan.org/videolan/dav1d
+license: BSD-2-Clause
