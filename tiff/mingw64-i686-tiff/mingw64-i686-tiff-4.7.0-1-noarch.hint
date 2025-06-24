@@ -1,0 +1,6 @@
+category: Devel
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ mingw64-i686-jbigkit mingw64-i686-libjpeg-turbo mingw64-i686-libwebp mingw64-i686-xz mingw64-i686-zlib mingw64-i686-zstd pkg-config
+sdesc: "Library for manipulation of TIFF images for Win32 toolchain"
+ldesc: "The LibTIFF software provides support for the Tag Image
+ File Format (TIFF), a widely used format for storing image data."
+
