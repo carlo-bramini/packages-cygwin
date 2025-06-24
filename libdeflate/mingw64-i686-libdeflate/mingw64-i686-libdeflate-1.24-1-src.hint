@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Library for DEFLATE/zlib/gzip (de)compression for Win32 toolchain"
+ldesc: "libdeflate is a library for fast, whole-buffer
+ DEFLATE-based compression and decompression."
+skip:
+
+homepage: https://github.com/ebiggers/libdeflate
+license: MIT
