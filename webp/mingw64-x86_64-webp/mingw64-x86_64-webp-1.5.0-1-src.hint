@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-giflib mingw64-x86_64-libjpeg-turbo mingw64-x86_64-libpng mingw64-x86_64-tiff
+sdesc: "WebP library for Win64 toolchain"
+ldesc: "WebP is a modern image format that provides superior
+lossless and lossy compression for images on the web."
+skip:
+
+homepage: https://developers.google.com/speed/webp
+license: BSD-3-Clause

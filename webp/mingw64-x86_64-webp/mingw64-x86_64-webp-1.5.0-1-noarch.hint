@@ -1,0 +1,6 @@
+category: Devel
+requires: pkg-config
+sdesc: "WebP library for Win64 toolchain"
+ldesc: "WebP is a modern image format that provides superior
+lossless and lossy compression for images on the web."
+
