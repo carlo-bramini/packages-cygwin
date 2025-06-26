@@ -1,0 +1,7 @@
+category: Libs
+build-depends: cygport libaom-devel dav1d-devel libwebp-devel libxml2-devel libyuv-devel
+sdesc: "Avif encoder/decoder"
+ldesc: "Portable C implementation of the AV1 Image File Format."
+skip:
+
+homepage: https://github.com/AOMediaCodec/libavif

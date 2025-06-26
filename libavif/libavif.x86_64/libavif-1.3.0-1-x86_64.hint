@@ -1,0 +1,5 @@
+category: Libs
+requires: cygwin libaom3 libdav1d7 libgdk_pixbuf2.0_0 libglib2.0_0 libwebp7
+sdesc: "Avif encoder/decoder"
+ldesc: "Portable C implementation of the AV1 Image File Format."
+

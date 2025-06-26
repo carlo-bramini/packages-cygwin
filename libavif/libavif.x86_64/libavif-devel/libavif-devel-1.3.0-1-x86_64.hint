@@ -1,0 +1,6 @@
+category: Devel
+requires: libaom-devel libavif libdav1d-devel libwebp-devel pkg-config
+sdesc: "Avif encoder/decoder"
+ldesc: "Portable C implementation of the AV1 Image File Format."
+external-source: libavif
+

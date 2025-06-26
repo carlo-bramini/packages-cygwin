@@ -1,0 +1,7 @@
+category: Devel
+build-depends: cygport mingw64-i686-libaom mingw64-i686-dav1d mingw64-i686-libwebp mingw64-i686-libxml2 mingw64-i686-libyuv
+sdesc: "Avif encoder/decoder for Win32 toolchain"
+ldesc: "Portable C implementation of the AV1 Image File Format."
+skip:
+
+homepage: https://github.com/AOMediaCodec/libavif
