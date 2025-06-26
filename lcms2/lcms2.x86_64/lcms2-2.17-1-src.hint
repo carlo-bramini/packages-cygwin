@@ -1,0 +1,13 @@
+category: Graphics Libs
+build-depends: cygport libjpeg-devel libtiff-devel zlib-devel meson ninja
+sdesc: "Little color management engine (utilities)"
+ldesc: "Little CMS intends to be an Open Source small-footprint color
+management engine, with special focus on accuracy and performance.  It
+uses the International Color Consortium standard (ICC), which is the
+modern standard regarding color management.  The ICC specification is
+widely used and is referred to in many International and other
+de-facto standards."
+skip:
+
+homepage: https://www.littlecms.com
+license: MIT AND GPL-3.0-or-later

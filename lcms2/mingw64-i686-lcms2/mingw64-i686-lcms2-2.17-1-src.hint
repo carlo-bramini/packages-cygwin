@@ -1,0 +1,11 @@
+category: Devel
+build-depends: cygport mingw64-i686-libjpeg-turbo mingw64-i686-tiff
+sdesc: "Little CMS library for Win32 toolchain"
+ldesc: "Little CMS intends to be a small-footprint color management engine,
+with special focus on accuracy and performance. It uses the International Color
+Consortium standard (ICC), which is the modern standard when regarding to color
+management."
+skip:
+
+homepage: http://www.littlecms.com/
+license: MIT, GPL-3.0-or-later
