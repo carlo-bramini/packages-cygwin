@@ -1,0 +1,6 @@
+category: Libs
+requires: cygwin libgcc1 libstdc++6
+sdesc: "C++ library for SIMD"
+ldesc: "Highway is a C++ library that provides portable SIMD/vector intrinsics."
+external-source: highway
+

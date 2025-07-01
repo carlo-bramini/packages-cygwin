@@ -1,0 +1,6 @@
+category: Devel
+requires: libhighway pkg-config
+sdesc: "C++ library for SIMD"
+ldesc: "Highway is a C++ library that provides portable SIMD/vector intrinsics."
+external-source: highway
+

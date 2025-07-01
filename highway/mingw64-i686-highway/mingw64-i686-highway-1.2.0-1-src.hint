@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "C++ library for SIMD for Win32 toolchain"
+ldesc: "Highway is a C++ library that provides portable SIMD/vector intrinsics."
+skip:
+
+homepage: https://github.com/google/highway
+license: Apache-2.0, BSD-3-Clause

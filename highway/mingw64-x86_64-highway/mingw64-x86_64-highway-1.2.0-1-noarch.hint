@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ pkg-config
+sdesc: "C++ library for SIMD for Win64 toolchain"
+ldesc: "Highway is a C++ library that provides portable SIMD/vector intrinsics."
+
