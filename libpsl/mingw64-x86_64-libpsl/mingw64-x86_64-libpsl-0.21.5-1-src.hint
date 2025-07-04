@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-win-iconv mingw64-x86_64-libidn2 mingw64-x86_64-libunistring
+sdesc: "Public Suffix List library for Win64 toolchain"
+ldesc: "Libpsl provides functions to work with
+ the Mozilla Public Suffix List."
+skip:
+
+homepage: https://rockdaboot.github.io/libpsl/
+license: MIT

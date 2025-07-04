@@ -1,0 +1,6 @@
+category: Devel
+requires: mingw64-x86_64-libidn2 mingw64-x86_64-win-iconv pkg-config python3
+sdesc: "Public Suffix List library for Win64 toolchain"
+ldesc: "Libpsl provides functions to work with
+ the Mozilla Public Suffix List."
+
