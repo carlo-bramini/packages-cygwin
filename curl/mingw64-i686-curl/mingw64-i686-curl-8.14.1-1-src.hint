@@ -1,0 +1,13 @@
+category: Devel
+build-depends: cygport mingw64-i686-win-iconv mingw64-i686-libidn2 mingw64-i686-nghttp2 mingw64-i686-libssh2 mingw64-i686-openssl mingw64-i686-libunistring mingw64-i686-zlib mingw64-i686-zstd mingw64-i686-brotli mingw64-i686-psl
+sdesc: "Multi-protocol file transfer library for Win32 toolchain"
+ldesc: "Library supporting transferring files with
+URL syntax, using FTP, FTPS, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, and
+FILE, SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form
+based upload, proxies, cookies, user+password authentication (Basic,
+Digest, NTLM, Negotiate...), file transfer resume, proxy tunneling and a
+busload of other useful tricks."
+skip:
+
+homepage: https://curl.se
+license: MIT

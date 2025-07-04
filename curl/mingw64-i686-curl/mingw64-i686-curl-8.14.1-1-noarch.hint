@@ -1,0 +1,10 @@
+category: Devel
+requires: bash mingw64-i686-gcc-core mingw64-i686-libidn2 mingw64-i686-libssh2 mingw64-i686-zlib mingw64-i686-zstd pkg-config
+sdesc: "Multi-protocol file transfer library for Win32 toolchain"
+ldesc: "Library supporting transferring files with
+URL syntax, using FTP, FTPS, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, and
+FILE, SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form
+based upload, proxies, cookies, user+password authentication (Basic,
+Digest, NTLM, Negotiate...), file transfer resume, proxy tunneling and a
+busload of other useful tricks."
+
