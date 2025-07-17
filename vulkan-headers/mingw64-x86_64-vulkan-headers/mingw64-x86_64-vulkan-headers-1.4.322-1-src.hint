@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Vulkan header files for Win64 toolchain"
+ldesc: "Vulkan header files and API registry"
+skip:
+
+homepage: https://www.vulkan.org/
+license: Apache-2.0
