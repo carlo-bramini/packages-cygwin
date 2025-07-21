@@ -1,0 +1,6 @@
+category: Devel
+requires: bash pkg-config
+sdesc: "Support library for libgcrypt for Win32 toolchain"
+ldesc: "Libgpg-error is a small library that originally defined
+ common error values for all GnuPG components."
+

@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Support library for libgcrypt for Win64 toolchain"
+ldesc: "Libgpg-error is a small library that originally defined
+ common error values for all GnuPG components."
+skip:
+
+homepage: https://gnupg.org
+license: LGPL
