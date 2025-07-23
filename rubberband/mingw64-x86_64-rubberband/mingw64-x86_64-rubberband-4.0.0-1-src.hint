@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-fftw3 mingw64-x86_64-libsamplerate
+sdesc: "Audio time-stretching and pitch-shifting library for Win64 toolchain."
+ldesc: "Rubber Band Library is a high quality software library for audio
+time-stretching and pitch-shifting. It permits you to change the tempo and
+pitch of an audio stream or recording dynamically and independently of one another."
+skip:
+
+homepage: https://breakfastquay.com/rubberband/
+license: GPLv3

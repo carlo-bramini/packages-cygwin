@@ -1,0 +1,8 @@
+category: Devel
+requires: libfftw3-devel libsamplerate-devel pkg-config rubberband
+sdesc: "Audio time-stretching and pitch-shifting library."
+ldesc: "Rubber Band Library is a high quality software library for audio
+time-stretching and pitch-shifting. It permits you to change the tempo and
+pitch of an audio stream or recording dynamically and independently of one another."
+external-source: rubberband
+
