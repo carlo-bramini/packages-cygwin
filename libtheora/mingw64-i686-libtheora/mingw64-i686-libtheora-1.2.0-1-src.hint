@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport mingw64-i686-libogg mingw64-i686-libvorbis mingw64-i686-libpng mingw64-i686-tiff
+sdesc: "Xiph video compression codec for Win32 toolchain"
+ldesc: "Xiph video compression codec for Win32 toolchain"
+skip:
+
+homepage: http://www.xiph.org/theora/
+license: BSD-3-Clause

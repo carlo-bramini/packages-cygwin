@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libtheora
+sdesc: "Debug info for libtheora"
+ldesc: "This package contains files necessary for debugging the
+libtheora package with gdb."
+

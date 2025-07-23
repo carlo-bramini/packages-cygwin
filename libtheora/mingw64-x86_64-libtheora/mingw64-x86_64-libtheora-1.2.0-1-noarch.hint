@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-libogg pkg-config
+sdesc: "Xiph video compression codec for Win64 toolchain"
+ldesc: "Xiph video compression codec for Win64 toolchain"
+
