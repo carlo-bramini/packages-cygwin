@@ -1,0 +1,7 @@
+category: Doc
+requires: 
+sdesc: "Correctly-rounded arbitrary precision decimal floating point arithmetic"
+ldesc: "mpdecimal is a package for correctly-rounded
+ arbitrary precision decimal floating point arithmetic."
+external-source: mpdecimal
+

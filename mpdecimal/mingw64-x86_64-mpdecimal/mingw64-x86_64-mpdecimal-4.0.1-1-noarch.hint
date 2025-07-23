@@ -1,0 +1,6 @@
+category: Devel
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-runtime pkg-config
+sdesc: "Correctly-rounded arbitrary precision decimal floating point arithmetic for Win64 toolchain"
+ldesc: "mpdecimal is a package for correctly-rounded
+ arbitrary precision decimal floating point arithmetic."
+

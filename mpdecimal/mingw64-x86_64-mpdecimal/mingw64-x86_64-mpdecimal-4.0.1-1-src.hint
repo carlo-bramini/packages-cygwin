@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Correctly-rounded arbitrary precision decimal floating point arithmetic for Win64 toolchain"
+ldesc: "mpdecimal is a package for correctly-rounded
+ arbitrary precision decimal floating point arithmetic."
+skip:
+
+homepage: https://www.bytereef.org/mpdecimal/index.html
+license: BSD-2-Clause
