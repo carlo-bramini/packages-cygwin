@@ -1,6 +1,6 @@
-category: Devel
-requires: libadplug0 libbinio-devel pkg-config
-sdesc: "AdLib sound player library library"
+category: Libs
+requires: cygwin libbinio1 libgcc1 libstdc++6
+sdesc: "AdLib sound player library (runtime)"
 ldesc: "
  AdPlug is a free, cross-platform, hardware independent AdLib sound player
  library, mainly written in C++ and released under the LGPL. AdPlug plays

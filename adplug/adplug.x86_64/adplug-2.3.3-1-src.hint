@@ -1,5 +1,5 @@
 category: Audio
-build-depends: cygport 
+build-depends: cygport libbinio-devel
 sdesc: "AdLib sound player library"
 ldesc: "
  AdPlug is a free, cross-platform, hardware independent AdLib sound player

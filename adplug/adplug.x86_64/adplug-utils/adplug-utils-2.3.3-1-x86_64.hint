@@ -1,6 +1,6 @@
-category: Doc
-requires:  
-sdesc: "AdLib sound player library documentation"
+category: Audio
+requires: cygwin libadplug0 libbinio1 libgcc1 libstdc++6
+sdesc: "AdLib sound player library (utilities)"
 ldesc: "
  AdPlug is a free, cross-platform, hardware independent AdLib sound player
  library, mainly written in C++ and released under the LGPL. AdPlug plays
