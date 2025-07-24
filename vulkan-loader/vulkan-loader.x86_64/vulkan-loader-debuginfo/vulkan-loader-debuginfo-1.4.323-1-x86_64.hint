@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: vulkan-loader
+sdesc: "Debug info for vulkan-loader"
+ldesc: "This package contains files necessary for debugging the
+vulkan-loader package with gdb."
+

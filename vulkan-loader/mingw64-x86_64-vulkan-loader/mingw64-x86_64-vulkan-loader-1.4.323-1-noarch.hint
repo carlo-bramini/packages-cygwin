@@ -1,0 +1,8 @@
+category: Devel
+requires: pkg-config
+sdesc: "Vulkan Installable Client Driver (ICD) Loader for Win64 toolchain"
+ldesc: "The Vulkan The ICD loader is a library that is placed
+ between a Vulkan application and any number of Vulkan drivers, in
+ order to support multiple drivers and the instance-level functionality
+ that works across these drivers."
+
