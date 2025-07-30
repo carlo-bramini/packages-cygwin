@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-gettext pkg-config
+sdesc: "Command-line option parser library for Win64 toolchain"
+ldesc: "C library for parsing command line parameters."
+

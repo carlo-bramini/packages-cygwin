@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-win-iconv
+sdesc: "Command-line option parser library for Win64 toolchain"
+ldesc: "C library for parsing command line parameters."
+skip:
+
+homepage: http://ftp.rpm.org/popt/
+license: MIT
