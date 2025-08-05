@@ -1,0 +1,11 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Asynchronous resolver library for Win64 toolchain"
+ldesc: "c-ares is a modern DNS (stub) resolver library,
+ written in C. It provides interfaces for asynchronous queries
+ while trying to abstract the intricacies of the underlying
+ DNS protocol."
+skip:
+
+homepage: https://c-ares.org/
+license: MIT
