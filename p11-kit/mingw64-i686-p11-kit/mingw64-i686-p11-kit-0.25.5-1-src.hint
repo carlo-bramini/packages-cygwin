@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport mingw64-i686-win-iconv mingw64-i686-libtasn1 mingw64-i686-libffi
+sdesc: "PKCS#11 module library for Win32 toolchain."
+ldesc: "Provides a way to load and enumerate PKCS#11 modules. Provides a
+standard configuration setup for installing PKCS#11 modules in such a way that
+they are discoverable."
+skip:
+
+homepage: http://p11-glue.freedesktop.org/p11-kit.html
+license: BSD-3-Clause

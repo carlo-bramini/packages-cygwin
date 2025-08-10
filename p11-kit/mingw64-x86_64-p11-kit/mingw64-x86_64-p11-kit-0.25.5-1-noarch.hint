@@ -1,0 +1,7 @@
+category: Devel
+requires: bash mingw64-x86_64-gettext mingw64-x86_64-libffi mingw64-x86_64-libtasn1 pkg-config
+sdesc: "PKCS#11 module library for Win64 toolchain."
+ldesc: "Provides a way to load and enumerate PKCS#11 modules. Provides a
+standard configuration setup for installing PKCS#11 modules in such a way that
+they are discoverable."
+
