@@ -1,0 +1,6 @@
+category: Devel
+requires: bash mingw64-x86_64-win-iconv pkg-config
+sdesc: "GNOME XML library for Win64 toolchain"
+ldesc: "Libxml2 is the XML C parser and toolkit developed
+ for the GNOME project"
+

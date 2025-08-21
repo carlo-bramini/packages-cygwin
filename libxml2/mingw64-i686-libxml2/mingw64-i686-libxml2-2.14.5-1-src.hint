@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "GNOME XML library for Win32 toolchain"
+ldesc: "Libxml2 is the XML C parser and toolkit developed
+ for the GNOME project"
+skip:
+
+homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
+license: MIT
