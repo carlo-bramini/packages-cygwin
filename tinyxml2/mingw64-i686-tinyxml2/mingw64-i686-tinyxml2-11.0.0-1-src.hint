@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Simple and small C++ XML parser for Win32 toolchain."
+ldesc: "TinyXML2 is a simple, small, efficient, C++ XML parser
+ that can be easily integrated into other programs."
+skip:
+
+homepage: https://github.com/leethomason/tinyxml2
+license: Zlib
