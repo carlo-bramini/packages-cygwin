@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Better and stronger spiritual successor to BZip2 for Win32 toolchain"
+ldesc: "BZip3 is a modern file compression tool that serves as a faster,
+ more efficient, and spiritual successor to BZip2."
+skip:
+
+homepage: https://github.com/iczelia/bzip3
+license: LGPL-3.0-or-later OR Apache-2.0
