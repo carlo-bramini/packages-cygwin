@@ -1,0 +1,9 @@
+category: Net
+build-depends: cygport 
+sdesc: "Telnet/SSH client"
+ldesc: "PuTTY is a free implementation of Telnet and SSH for Windows and
+Unix platforms, along with an xterm terminal emulator."
+skip:
+
+homepage: http://www.chiark.greenend.org.uk/~sgtatham/putty/
+license: MIT
