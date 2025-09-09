@@ -1,0 +1,5 @@
+category: Net
+requires: cygwin libgcc1 libQt5Core5 libQt5Gui5 libQt5SerialPort5 libstdc++6
+sdesc: "Graphical serial terminal"
+ldesc: "CuteCom is a graphical serial terminal, like minicom."
+

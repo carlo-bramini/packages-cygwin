@@ -1,0 +1,8 @@
+category: Net
+build-depends: cygport libQt5Core-devel libQt5Gui-devel libQt5SerialPort-devel
+sdesc: "Graphical serial terminal"
+ldesc: "CuteCom is a graphical serial terminal, like minicom."
+skip:
+
+homepage: https://gitlab.com/cutecom/cutecom
+license: GPL-3.0-only
