@@ -1,0 +1,9 @@
+category: Net
+build-depends: cygport vala itstool libxml2 gettext-devel libgtk3-devel intltool
+sdesc: "GTK-based serial terminal"
+ldesc: "moserial is a clean, friendly gtk-based serial
+ terminal for the gnome desktop. It is written in Vala."
+skip:
+
+homepage: https://wiki.gnome.org/Apps/Moserial
+license: GPL-3.0-or-later
