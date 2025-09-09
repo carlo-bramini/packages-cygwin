@@ -1,0 +1,7 @@
+category: Doc
+requires: 
+sdesc: "Free UUCP tools for UNIX"
+ldesc: "Taylor UUCP is a free implementation of UUCP
+ and is the standard UUCP used on the GNU system"
+external-source: uucp
+
