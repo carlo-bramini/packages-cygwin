@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: kissfft
+sdesc: "Debug info for kissfft"
+ldesc: "This package contains files necessary for debugging the
+kissfft package with gdb."
+

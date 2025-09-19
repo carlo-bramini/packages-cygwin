@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-libpng
+sdesc: "Mixed-radix Fast Fourier Transform for Win64 toolchain"
+ldesc: "A Fast Fourier Transform based up on the principle:
+ Keep It Simple, Stupid"
+skip:
+
+homepage: https://github.com/mborgerding/kissfft
+license: BSD-3-Clause

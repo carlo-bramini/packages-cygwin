@@ -1,0 +1,9 @@
+category: Libs
+build-depends: cygport libpng-devel
+sdesc: "Mixed-radix Fast Fourier Transform"
+ldesc: "A Fast Fourier Transform based up on the principle:
+ Keep It Simple, Stupid"
+skip:
+
+homepage: https://github.com/mborgerding/kissfft
+license: BSD-3-Clause
