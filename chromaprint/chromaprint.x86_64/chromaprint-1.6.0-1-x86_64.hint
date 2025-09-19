@@ -1,0 +1,7 @@
+category: Libs
+requires: cygwin libavcodec62 libavformat62 libavutil60 libgcc1 libstdc++6 libswresample6
+sdesc: "Library for extracting fingerprints from any audio source"
+ldesc: "Chromaprint is the core component of the AcoustID project.
+It's a client-side library that implements a custom algorithm for
+extracting fingerprints from any audio source."
+

@@ -1,0 +1,10 @@
+category: Libs
+build-depends: cygport libswresample-devel
+sdesc: "Library for extracting fingerprints from any audio source"
+ldesc: "Chromaprint is the core component of the AcoustID project.
+It's a client-side library that implements a custom algorithm for
+extracting fingerprints from any audio source."
+skip:
+
+homepage: https://acoustid.org/chromaprint
+license: LGPL2.1
