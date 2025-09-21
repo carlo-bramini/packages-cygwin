@@ -1,0 +1,5 @@
+category: Devel
+requires: pkg-config
+sdesc: "Cross-Platform Audio Output Library for Win64 toolchain"
+ldesc: "Cross-Platform Audio Output Library for Win64 toolchain"
+

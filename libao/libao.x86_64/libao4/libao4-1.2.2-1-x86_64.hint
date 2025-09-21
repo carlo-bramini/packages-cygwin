@@ -1,0 +1,6 @@
+category: Libs
+requires: cygwin libaudio2 libesd0 libpulse-simple0 libpulse0
+sdesc: "Cross-Platform Audio Output Library"
+ldesc: "Cross-Platform Audio Output Library"
+external-source: libao
+

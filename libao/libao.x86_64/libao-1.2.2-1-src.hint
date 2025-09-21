@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Cross-Platform Audio Output Library"
+ldesc: "Cross-Platform Audio Output Library"
+skip:
+
+homepage: http://www.xiph.org/ao
+license: GPL-2.0-or-later

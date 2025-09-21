@@ -1,0 +1,6 @@
+category: Doc
+requires: 
+sdesc: "Cross-Platform Audio Output Library"
+ldesc: "Cross-Platform Audio Output Library"
+external-source: libao
+
