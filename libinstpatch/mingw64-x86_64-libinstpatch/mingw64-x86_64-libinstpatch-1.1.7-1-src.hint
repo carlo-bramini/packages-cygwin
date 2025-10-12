@@ -1,6 +1,6 @@
-category: Libs
-build-depends: cygport 
-sdesc: "Instrument file software library."
+category: Devel
+build-depends: cygport mingw64-x86_64-glib2.0 mingw64-x86_64-libsndfile
+sdesc: "Instrument file software library for Win64 toolchain."
 ldesc: "libInstPatch stands for lib-Instrument-Patch and is a library for processing digital sample based MIDI instrument 'patch' files."
 skip:
 

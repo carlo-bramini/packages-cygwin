@@ -1,5 +1,0 @@
-category: Libs
-requires: cygwin libglib2.0_0 libsndfile1 
-sdesc: "Instrument file software library."
-ldesc: "libInstPatch stands for lib-Instrument-Patch and is a library for processing digital sample based MIDI instrument 'patch' files."
-

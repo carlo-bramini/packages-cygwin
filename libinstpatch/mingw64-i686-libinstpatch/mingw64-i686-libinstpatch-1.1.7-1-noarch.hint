@@ -1,6 +1,5 @@
 category: Devel
-requires: libglib2.0-devel libinstpatch libsndfile-devel pkg-config 
-sdesc: "Instrument file software library."
+requires: mingw64-i686-gcc-core mingw64-i686-glib2.0 mingw64-i686-libsndfile pkg-config
+sdesc: "Instrument file software library for Win32 toolchain."
 ldesc: "libInstPatch stands for lib-Instrument-Patch and is a library for processing digital sample based MIDI instrument 'patch' files."
-external-source: libinstpatch
 

@@ -1,8 +1,0 @@
-category: Devel
-build-depends: cygport 
-sdesc: "Instrument file software library."
-ldesc: "libInstPatch stands for lib-Instrument-Patch and is a library for processing digital sample based MIDI instrument 'patch' files."
-skip:
-
-homepage: http://www.swamiproject.org/
-license: LGPL2.1
