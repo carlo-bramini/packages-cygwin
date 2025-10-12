@@ -1,0 +1,9 @@
+category: Libs
+build-depends: cygport flac-devel libogg-devel libmp3lame-devel libmpg123-devel libmpg123-devel libvorbis-devel speex-devel speexdsp-devel
+sdesc: "Sampled audio data library"
+ldesc: "libsndfile is a library of C routines for reading and writing
+files containing sampled audio data."
+skip:
+
+homepage: http://www.mega-nerd.com/libsndfile/
+license: LGPL-2.1-only
