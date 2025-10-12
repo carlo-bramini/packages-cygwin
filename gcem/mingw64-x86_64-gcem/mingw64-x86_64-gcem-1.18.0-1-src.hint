@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "C++ math library for Win64 toolchain"
+ldesc: "A C++ compile-time math library using generalized constant expressions"
+skip:
+
+homepage: https://github.com/kthohr/gcem
+license: Apache-2.0
