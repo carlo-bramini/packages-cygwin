@@ -1,5 +1,5 @@
 category: Audio
-build-depends: cygport 
+build-depends: cygport libglib2.0-devel libpulse-devel libreadline-devel libmp3lame-devel libinstpatch-devel libiconv-devel libsndfile-devel gcem
 sdesc: "SoundFont software synthesizer"
 ldesc: "FluidSynth is a real-time software synthesizer based on the
 SoundFont 2 specifications."

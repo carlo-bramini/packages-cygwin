@@ -1,5 +1,5 @@
 category: Devel
-build-depends: cygport 
+build-depends: cygport mingw64-x86_64-glib2.0 mingw64-x86_64-lame mingw64-x86_64-libinstpatch mingw64-x86_64-win-iconv mingw64-x86_64-libsndfile mingw64-x86_64-gcem
 sdesc: "SoundFont software synthesizer for Win64 toolchain"
 ldesc: "FluidSynth is a real-time software synthesizer based on the
 SoundFont 2 specifications."

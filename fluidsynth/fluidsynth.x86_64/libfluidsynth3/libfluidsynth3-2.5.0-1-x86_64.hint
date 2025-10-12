@@ -1,5 +1,5 @@
-category: Devel
-requires: libfluidsynth1 libglib2.0-devel libpulse-devel libreadline-devel libsndfile-devel pkg-config
+category: Libs
+requires: cygwin libgcc1 libglib2.0_0 libgomp1 libpulse-simple0 libpulse0 libreadline8 libsndfile1 libstdc++6
 sdesc: "SoundFont software synthesizer"
 ldesc: "FluidSynth is a real-time software synthesizer based on the
 SoundFont 2 specifications."

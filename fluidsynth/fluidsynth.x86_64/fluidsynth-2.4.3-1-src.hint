@@ -1,9 +1,0 @@
-category: Audio
-build-depends: cygport 
-sdesc: "SoundFont software synthesizer"
-ldesc: "FluidSynth is a real-time software synthesizer based on the
-SoundFont 2 specifications."
-skip:
-
-homepage: http://www.fluidsynth.org/
-license: LGPL2.1
