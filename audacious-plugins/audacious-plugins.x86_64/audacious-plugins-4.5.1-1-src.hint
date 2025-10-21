@@ -1,0 +1,11 @@
+category: Audio
+build-depends: cygport audacious-devel libcurl-devel zlib-devel libglib2.0-devel libgtk3-devel libgdk_pixbuf2.0-devel libsamplerate-devel libxml2-devel libQt5Core-devel libQt5Gui-devel libQt5Multimedia-devel libQt5X11Extras-devel libbs2b-devel libsoxr-devel libmms-devel libneon-devel libcue-devel libnotify-devel libjson-glib1.0-devel libXrender-devel libXcomposite-devel libfaad-devel libadplug-devel libfluidsynth-devel libcdio-devel libcdio_cdda2 libcddb-devel libavcodec-devel libavformat-devel libavutil-devel flac-devel libmodplug-devel libmpg123-devel libopenmpt-devel libopusfile-devel libsidplayfp-devel libsndfile-devel libogg-devel libvorbis-devel libwavpack-devel libmp3lame-devel libpulse-devel libcdio_paranoia-devel libGL-devel libbinio-devel
+sdesc: "GTK audio player, fork of BMP/XMMS (plugins)"
+ldesc: "Audacious is an advanced audio player. It is free, lightweight,
+based on GTK+, runs on Linux and many other *nix platforms and is focused on
+audio quality and supporting a wide range of audio codecs. Audacious is a fork
+of Beep Media Player (BMP), which itself forked from XMMS."
+skip:
+
+homepage: http://audacious-media-player.org/
+license: BSD-2-Clause
