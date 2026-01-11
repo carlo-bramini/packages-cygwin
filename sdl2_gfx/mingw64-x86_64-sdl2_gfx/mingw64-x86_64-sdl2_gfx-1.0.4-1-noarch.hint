@@ -1,0 +1,7 @@
+category: Devel
+requires: mingw64-x86_64-SDL2 pkg-config
+sdesc: "SDL2 graphics drawing primitives for Win64 toolchain"
+ldesc: "Graphics drawing primitives and other support functions
+ wrapped up in an add-on, C-based library for the Simple Direct Media
+ (SDL) cross-platform API layer."
+

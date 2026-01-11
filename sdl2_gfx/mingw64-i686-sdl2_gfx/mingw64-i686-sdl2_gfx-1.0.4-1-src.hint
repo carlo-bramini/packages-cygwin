@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport mingw64-i686-SDL2
+sdesc: "SDL2 graphics drawing primitives for Win32 toolchain"
+ldesc: "Graphics drawing primitives and other support functions
+ wrapped up in an add-on, C-based library for the Simple Direct Media
+ (SDL) cross-platform API layer."
+skip:
+
+homepage: https://www.ferzkopp.net/wordpress/2016/01/02/sdl_gfx-sdl2_gfx/
+license: Zlib
