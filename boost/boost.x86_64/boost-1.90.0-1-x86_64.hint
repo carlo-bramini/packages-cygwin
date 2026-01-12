@@ -1,0 +1,9 @@
+category: Devel
+requires: cygwin libbz2_1 libgcc1 libiconv2 libicu76 liblzma5 libquadmath0 libstdc++6 python39 zlib0
+sdesc: "Boost C++ libraries"
+ldesc: "Boost provides free peer-reviewed portable C++ source libraries.
+We emphasize libraries that work well with the C++ Standard Library. Boost
+libraries are intended to be widely useful, and usable across a broad spectrum
+of applications. The Boost license encourages both commercial and non-commercial
+use."
+

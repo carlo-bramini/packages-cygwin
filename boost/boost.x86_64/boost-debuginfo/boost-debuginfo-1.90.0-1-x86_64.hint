@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: boost
+sdesc: "Debug info for boost"
+ldesc: "This package contains files necessary for debugging the
+boost package with gdb."
+

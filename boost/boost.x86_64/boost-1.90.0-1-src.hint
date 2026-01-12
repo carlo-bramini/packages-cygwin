@@ -1,0 +1,12 @@
+category: Devel
+build-depends: cygport libbz2-devel liblzma-devel libzstd-devel zlib-devel
+sdesc: "Boost C++ libraries"
+ldesc: "Boost provides free peer-reviewed portable C++ source libraries.
+We emphasize libraries that work well with the C++ Standard Library. Boost
+libraries are intended to be widely useful, and usable across a broad spectrum
+of applications. The Boost license encourages both commercial and non-commercial
+use."
+skip:
+
+homepage: http://www.boost.org/
+license: BSL-1.0
