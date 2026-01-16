@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Lua language interpreter for Win64 toolchain"
+ldesc: "Lua is a powerful, light-weight programming language
+ designed for extending applications. Lua is also frequently used
+ as a general-purpose, stand-alone language."
+skip:
+
+homepage: http://www.lua.org/
+license: MIT
