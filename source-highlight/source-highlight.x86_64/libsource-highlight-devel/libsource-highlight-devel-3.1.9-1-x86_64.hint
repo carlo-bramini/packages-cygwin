@@ -1,0 +1,10 @@
+category: Devel
+requires: libboost-devel libsource-highlight4 pkg-config
+sdesc: "Syntax highlighting library"
+ldesc: "This program, given a source file, produces a document with
+syntax highlighting. Source-highlight reads source language specifications
+dynamically, thus it can be easily extended for handling new languages. It
+also reads output format specifications dynamically, and thus it can be easily
+extended for handling new output formats."
+external-source: source-highlight
+

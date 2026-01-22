@@ -1,0 +1,12 @@
+category: Text
+build-depends: cygport bison flex ctags libboost-devel
+sdesc: "Syntax highlighting utilities"
+ldesc: "This program, given a source file, produces a document with
+syntax highlighting. Source-highlight reads source language specifications
+dynamically, thus it can be easily extended for handling new languages. It
+also reads output format specifications dynamically, and thus it can be easily
+extended for handling new output formats."
+skip:
+
+homepage: http://www.gnu.org/software/src-highlite/
+license: GPL-3.0-or-later

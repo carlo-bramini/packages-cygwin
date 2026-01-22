@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: source-highlight
+sdesc: "Debug info for source-highlight"
+ldesc: "This package contains files necessary for debugging the
+source-highlight package with gdb."
+
