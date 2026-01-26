@@ -1,0 +1,8 @@
+category: Devel
+requires: antlr4-runtime
+sdesc: "ANother Tool for Language Recognition v4"
+ldesc: "ANTLR (ANother Tool for Language Recognition)
+ is a powerful parser generator for reading, processing,
+ executing, or translating structured text or binary files."
+external-source: antlr4-runtime
+

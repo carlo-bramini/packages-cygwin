@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: antlr4-runtime
+sdesc: "Debug info for antlr4-runtime"
+ldesc: "This package contains files necessary for debugging the
+antlr4-runtime package with gdb."
+

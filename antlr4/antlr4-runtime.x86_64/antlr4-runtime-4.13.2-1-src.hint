@@ -1,0 +1,10 @@
+category: Libs
+build-depends: cygport 
+sdesc: "ANother Tool for Language Recognition v4"
+ldesc: "ANTLR (ANother Tool for Language Recognition)
+ is a powerful parser generator for reading, processing,
+ executing, or translating structured text or binary files."
+skip:
+
+homepage: https://www.antlr.org/
+license: BSD-3-Clause
