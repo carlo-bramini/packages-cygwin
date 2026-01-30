@@ -1,0 +1,6 @@
+category: Libs
+requires: cygwin libgcc1 libstdc++6
+sdesc: "A microbenchmark support library"
+ldesc: "A library to benchmark code snippets, similar to unit tests."
+external-source: benchmark
+

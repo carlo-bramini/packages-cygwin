@@ -1,0 +1,6 @@
+category: Devel
+requires: libbenchmark pkg-config
+sdesc: "A microbenchmark support library"
+ldesc: "A library to benchmark code snippets, similar to unit tests."
+external-source: benchmark
+

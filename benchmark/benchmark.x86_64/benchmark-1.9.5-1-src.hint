@@ -1,0 +1,8 @@
+category: Libs
+build-depends: cygport 
+sdesc: "A microbenchmark support library"
+ldesc: "A library to benchmark code snippets, similar to unit tests."
+skip:
+
+homepage: https://github.com/google/benchmark
+license: Apache-2.0
