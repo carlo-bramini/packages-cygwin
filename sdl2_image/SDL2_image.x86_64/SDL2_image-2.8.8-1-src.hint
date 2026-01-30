@@ -1,0 +1,10 @@
+category: Libs
+build-depends: cygport libSDL2-devel libavif-devel libpng-devel libjpeg-devel libtiff-devel libwebp-devel
+sdesc: "SDL image loading library"
+ldesc: "This is a simple library to load images of various formats as
+SDL surfaces.  This library supports BMP, PNM (PPM/PGM/PBM), XPM, LBM,
+PCX, GIF, JPEG, PNG, TGA, TIFF, and WEBP formats."
+skip:
+
+homepage: http://www.libsdl.org/projects/SDL_image/
+license: MIT
