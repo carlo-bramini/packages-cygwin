@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: c-ares
+sdesc: "Debug info for c-ares"
+ldesc: "This package contains files necessary for debugging the
+c-ares package with gdb."
+

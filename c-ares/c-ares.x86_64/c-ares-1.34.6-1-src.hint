@@ -1,0 +1,11 @@
+category: Net Libs
+build-depends: cygport gettext-devel libiconv-devel gcc-core gcc-g++ autoconf automake libtool make pkg-config
+sdesc: "Curl Asynchronous RESolver library"
+ldesc: "Curl Asynchronous RESolver library for applications which
+need to perform DNS queries without blocking, or
+need to perform multiple DNS queries in parallel.
+Primary applications are servers with multiple clients and GUI programs."
+skip:
+
+homepage: https://c-ares.org/
+license: MIT

@@ -1,0 +1,9 @@
+category: Net Libs
+requires: cygwin
+sdesc: "Curl Asynchronous RESolver library"
+ldesc: "Curl Asynchronous RESolver library for applications which
+need to perform DNS queries without blocking, or
+need to perform multiple DNS queries in parallel.
+Primary applications are servers with multiple clients and GUI programs."
+external-source: c-ares
+
