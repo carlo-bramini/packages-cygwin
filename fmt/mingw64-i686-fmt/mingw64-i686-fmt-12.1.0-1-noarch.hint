@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ pkg-config
+sdesc: "Open-source formatting library for C++ for Win32 toolchain"
+ldesc: "{fmt} provides a safe replacement for the printf family of functions."
+

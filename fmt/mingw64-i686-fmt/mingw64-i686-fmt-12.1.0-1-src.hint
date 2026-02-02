@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Open-source formatting library for C++ for Win32 toolchain"
+ldesc: "{fmt} provides a safe replacement for the printf family of functions."
+skip:
+
+homepage: https://fmt.dev
+license: MIT

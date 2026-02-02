@@ -1,0 +1,6 @@
+category: Devel
+requires: libfmt pkg-config
+sdesc: "Open-source formatting library for C++"
+ldesc: "{fmt} provides a safe replacement for the printf family of functions."
+external-source: fmt
+
