@@ -1,0 +1,11 @@
+category: Graphics
+build-depends: cygport libGL-devel libEGL-devel libX11-devel libXext-devel libfreetype-devel zlib-devel libgtkglext1.0-devel libjpeg-devel libpng-devel libtiff-devel libfontconfig-devel libXrandr-devel libXinerama-devel libfontconfig-devel libXrandr-devel
+sdesc: "High performance 3D graphics toolkit"
+ldesc: "OpenSceneGraph is an open source high performance
+ 3D graphics toolkit, used by application developers in fields
+ such as visual simulation, games, virtual reality, scientific
+ visualization and modelling."
+skip:
+
+homepage: https://openscenegraph.github.io/openscenegraph.io
+license: OSGPL

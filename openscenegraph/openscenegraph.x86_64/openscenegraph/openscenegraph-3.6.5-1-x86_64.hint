@@ -1,0 +1,8 @@
+category: Graphics
+requires: cygwin libfontconfig1 libfreetype6 libgcc1 libgdal36 libGL1 libjpeg8 libpng16 libstdc++6 libtiff7 libX11_6 libXinerama1 libXrandr2 zlib0
+sdesc: "High performance 3D graphics toolkit"
+ldesc: "OpenSceneGraph is an open source high performance
+ 3D graphics toolkit, used by application developers in fields
+ such as visual simulation, games, virtual reality, scientific
+ visualization and modelling."
+

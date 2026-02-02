@@ -1,0 +1,9 @@
+category: Devel
+requires: openscenegraph pkg-config
+sdesc: "High performance 3D graphics toolkit"
+ldesc: "OpenSceneGraph is an open source high performance
+ 3D graphics toolkit, used by application developers in fields
+ such as visual simulation, games, virtual reality, scientific
+ visualization and modelling."
+external-source: openscenegraph
+

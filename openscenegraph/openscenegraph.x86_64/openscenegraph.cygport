@@ -1,0 +1,54 @@
+VCS_COMPRESSION_EXT="xz"
+
+GIT_URI="https://gitlab.com/flightgear/openscenegraph.git"
+GIT_BRANCH="next"
+
+inherit cmake git
+
+# Package name
+NAME="openscenegraph"
+VERSION=3.6.5
+RELEASE=1
+
+# .hint generation
+CATEGORY="Graphics"
+SUMMARY="High performance 3D graphics toolkit"
+DESCRIPTION="OpenSceneGraph is an open source high performance
+ 3D graphics toolkit, used by application developers in fields
+ such as visual simulation, games, virtual reality, scientific
+ visualization and modelling."
+
+# Homepage
+HOMEPAGE="https://openscenegraph.github.io/openscenegraph.io"
+LICENSE="OSGPL"
+
+# Source and patch files
+SRC_URI="openscenegraph-${VERSION}.tar.${VCS_COMPRESSION_EXT}"
+SRC_DIR="openscenegraph"
+
+# use the standard src_compile, src_install and src_test
+
+# Packages
+PKG_NAMES="${NAME} ${NAME}-devel"
+openscenegraph_CONTENTS="
+	usr/bin/*.dll
+	usr/share
+	usr/lib/osgPlugins-${VERSION}/*.dll
+"
+
+openscenegraph_devel_CATEGORY="Devel"
+openscenegraph_devel_CONTENTS="
+	usr/include
+	usr/lib/pkgconfig
+	usr/lib/*.dll.a
+"
+
+# Dependencies
+
+BUILD_REQUIRES="libGL-devel libEGL-devel libX11-devel"
+BUILD_REQUIRES+=" libXext-devel libfreetype-devel zlib-devel"
+BUILD_REQUIRES+=" libgtkglext1.0-devel libjpeg-devel libpng-devel"
+BUILD_REQUIRES+=" libtiff-devel libfontconfig-devel libXrandr-devel"
+BUILD_REQUIRES+=" libXinerama-devel libfontconfig-devel libXrandr-devel"
+
+
