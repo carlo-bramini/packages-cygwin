@@ -9,3 +9,4 @@ libjpeg, all else being equal."
 skip:
 
 homepage: https://libjpeg-turbo.org/
+license: BSD-3-Clause
