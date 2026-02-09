@@ -1,0 +1,8 @@
+category: Devel
+requires: pkg-config
+sdesc: "Multi-channel SDL2 audio mixer for Win32 toolchain"
+ldesc: "SDL_mixer is a simple multi-channel audio mixer based on SDL. It
+supports 8 channels of 16 bit stereo audio, plus a single channel of music.
+The mixer can currently load Microsoft WAVE files and Creative Labs VOC files,
+MIDI files, and music formats .MOD .S3M .IT .XM."
+

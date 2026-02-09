@@ -1,0 +1,11 @@
+category: Libs
+build-depends: cygport flac-devel libmodplug-devel libvorbis-devel libxmp-devel libmpg123-devel libopusfile-devel libfluidsynth-devel
+sdesc: "Multi-channel audio mixer for SDL"
+ldesc: "SDL_mixer is a simple multi-channel audio mixer based on SDL. It
+supports 8 channels of 16 bit stereo audio, plus a single channel of music.
+The mixer can currently load Microsoft WAVE files and Creative Labs VOC files,
+MIDI files, and music formats .MOD .S3M .IT .XM."
+skip:
+
+homepage: http://www.libsdl.org/projects/SDL_mixer/
+license: Zlib

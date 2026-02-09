@@ -1,0 +1,9 @@
+category: Libs
+requires: cygwin libSDL2_2.0_0
+sdesc: "Multi-channel audio mixer for SDL"
+ldesc: "SDL_mixer is a simple multi-channel audio mixer based on SDL. It
+supports 8 channels of 16 bit stereo audio, plus a single channel of music.
+The mixer can currently load Microsoft WAVE files and Creative Labs VOC files,
+MIDI files, and music formats .MOD .S3M .IT .XM."
+external-source: SDL2_mixer
+

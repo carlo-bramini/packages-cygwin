@@ -1,9 +1,10 @@
 category: Devel
-build-depends: cygport 
-sdesc: "SDL2 audio loading library for Win32 toolchain"
-ldesc: "This is the Simple DirectMedia Layer, a general API that provides
-low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL,
-and 2D framebuffer across multiple platforms."
+build-depends: cygport mingw64-i686-flac mingw64-i686-libmodplug mingw64-i686-libvorbis mingw64-i686-mpg123 mingw64-i686-opusfile mingw64-i686-fluidsynth mingw64-i686-libxmp
+sdesc: "Multi-channel SDL2 audio mixer for Win32 toolchain"
+ldesc: "SDL_mixer is a simple multi-channel audio mixer based on SDL. It
+supports 8 channels of 16 bit stereo audio, plus a single channel of music.
+The mixer can currently load Microsoft WAVE files and Creative Labs VOC files,
+MIDI files, and music formats .MOD .S3M .IT .XM."
 skip:
 
 homepage: http://www.libsdl.org/projects/SDL_mixer/
