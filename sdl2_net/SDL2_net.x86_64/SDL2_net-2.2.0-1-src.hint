@@ -1,0 +1,11 @@
+category: Libs
+build-depends: cygport 
+sdesc: "SDL2 network library"
+ldesc: "This is a portable network library for use with SDL.
+ It's goal is to simplify the use of the usual socket interfaces
+ and use SDL infrastructure to handle some portability things
+ (such as threading and reporting errors)."
+skip:
+
+homepage: http://www.libsdl.org/projects/SDL_net/
+license: Zlib

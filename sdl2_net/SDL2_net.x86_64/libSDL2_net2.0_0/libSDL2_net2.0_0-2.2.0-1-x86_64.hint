@@ -1,0 +1,9 @@
+category: Libs
+requires: cygwin libSDL2_2.0_0
+sdesc: "SDL2 network library"
+ldesc: "This is a portable network library for use with SDL.
+ It's goal is to simplify the use of the usual socket interfaces
+ and use SDL infrastructure to handle some portability things
+ (such as threading and reporting errors)."
+external-source: SDL2_net
+
