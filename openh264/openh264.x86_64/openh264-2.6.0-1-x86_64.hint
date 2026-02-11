@@ -1,0 +1,6 @@
+category: Video
+requires: cygwin libgcc1 libstdc++6
+sdesc: "H.264 encoder and decoder"
+ldesc: "OpenH264 is a free software library for real-time
+ encoding and decoding video streams in the H.264/MPEG-4 AVC format."
+

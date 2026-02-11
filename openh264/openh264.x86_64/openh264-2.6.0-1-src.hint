@@ -1,0 +1,9 @@
+category: Video
+build-depends: cygport nasm
+sdesc: "H.264 encoder and decoder"
+ldesc: "OpenH264 is a free software library for real-time
+ encoding and decoding video streams in the H.264/MPEG-4 AVC format."
+skip:
+
+homepage: https://www.openh264.org/
+license: BSD-2-Clause

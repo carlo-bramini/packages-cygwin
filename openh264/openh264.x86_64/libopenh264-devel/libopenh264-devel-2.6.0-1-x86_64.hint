@@ -1,0 +1,7 @@
+category: Devel
+requires: libopenh264 pkg-config
+sdesc: "H.264 encoder and decoder"
+ldesc: "OpenH264 is a free software library for real-time
+ encoding and decoding video streams in the H.264/MPEG-4 AVC format."
+external-source: openh264
+
