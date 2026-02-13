@@ -1,0 +1,7 @@
+category: Libs
+requires: cygwin libgcc1 libstdc++6
+sdesc: "Abseil Common Libraries (C++)"
+ldesc: "Abseil is an open-source collection of C++ code
+ (compliant to C++17) designed to augment the C++ standard library."
+external-source: abseil-cpp
+

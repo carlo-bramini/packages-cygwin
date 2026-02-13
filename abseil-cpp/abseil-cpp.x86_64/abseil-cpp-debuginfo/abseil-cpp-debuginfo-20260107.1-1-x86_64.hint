@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: abseil-cpp
+sdesc: "Debug info for abseil-cpp"
+ldesc: "This package contains files necessary for debugging the
+abseil-cpp package with gdb."
+
