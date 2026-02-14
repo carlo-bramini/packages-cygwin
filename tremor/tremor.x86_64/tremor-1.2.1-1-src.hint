@@ -1,0 +1,9 @@
+category: Audio
+build-depends: cygport 
+sdesc: "Integer-only Ogg Vorbis decoder library"
+ldesc: "Tremor is a fixed-point version of the Ogg Vorbis
+ decoder for those platforms that can't do floating point math."
+skip:
+
+homepage: https://www.xiph.org/vorbis/
+license: BSD

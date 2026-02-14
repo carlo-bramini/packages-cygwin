@@ -1,0 +1,7 @@
+category: Libs
+requires: cygwin libogg0
+sdesc: "Integer-only Ogg Vorbis decoder library"
+ldesc: "Tremor is a fixed-point version of the Ogg Vorbis
+ decoder for those platforms that can't do floating point math."
+external-source: tremor
+
