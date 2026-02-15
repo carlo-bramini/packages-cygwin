@@ -1,0 +1,5 @@
+category: Devel
+requires: bash mingw64-i686-openal mingw64-i686-winpthreads pkg-config
+sdesc: "OpenAL Utility Toolkit (ALUT) for Win32 toolchain"
+ldesc: "freealut is a free implementation of OpenAL's ALUT standard."
+

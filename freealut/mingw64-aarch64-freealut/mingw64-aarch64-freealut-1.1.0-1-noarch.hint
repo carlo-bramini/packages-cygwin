@@ -1,0 +1,5 @@
+category: Devel
+requires: bash
+sdesc: "OpenAL Utility Toolkit (ALUT) for Woa64 toolchain"
+ldesc: "freealut is a free implementation of OpenAL's ALUT standard."
+

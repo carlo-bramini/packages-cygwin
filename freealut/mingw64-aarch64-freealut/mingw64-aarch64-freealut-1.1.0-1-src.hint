@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport mingw64-aarch64-openal
+sdesc: "OpenAL Utility Toolkit (ALUT) for Woa64 toolchain"
+ldesc: "freealut is a free implementation of OpenAL's ALUT standard."
+skip:
+
+homepage: https://www.openal.org/
+license: LGPL-2.0-only

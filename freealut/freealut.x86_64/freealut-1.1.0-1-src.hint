@@ -1,0 +1,8 @@
+category: Audio
+build-depends: cygport libopenal-devel
+sdesc: "OpenAL Utility Toolkit (ALUT)"
+ldesc: "freealut is a free implementation of OpenAL's ALUT standard."
+skip:
+
+homepage: https://www.openal.org/
+license: LGPL-2.0-only

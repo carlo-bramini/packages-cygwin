@@ -1,0 +1,6 @@
+category: Libs
+requires: bash cygwin libopenal1
+sdesc: "OpenAL Utility Toolkit (ALUT)"
+ldesc: "freealut is a free implementation of OpenAL's ALUT standard."
+external-source: freealut
+
