@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: orc
+sdesc: "Debug info for orc"
+ldesc: "This package contains files necessary for debugging the
+orc package with gdb."
+
