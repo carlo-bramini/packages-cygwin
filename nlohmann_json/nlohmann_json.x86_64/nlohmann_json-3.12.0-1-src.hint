@@ -1,0 +1,9 @@
+category: Libs
+build-depends: cygport 
+sdesc: "JSON for Modern C++"
+ldesc: "The Nlohmann JSON library is an include-only library
+ for C++ to able to read, write and manipulate JSON effortlessly."
+skip:
+
+homepage: https://json.nlohmann.me/
+license: MIT

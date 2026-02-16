@@ -1,0 +1,6 @@
+category: Libs
+requires: pkg-config
+sdesc: "JSON for Modern C++"
+ldesc: "The Nlohmann JSON library is an include-only library
+ for C++ to able to read, write and manipulate JSON effortlessly."
+
