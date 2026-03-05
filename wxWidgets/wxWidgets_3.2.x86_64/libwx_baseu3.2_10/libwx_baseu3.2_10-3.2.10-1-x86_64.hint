@@ -1,0 +1,11 @@
+category: Libs
+requires: cygwin libcurl4 libexpat1 libgcc1 libglib2.0_0 libiconv2 liblzma5 libpcre2_16_0 libsecret1_0 libstdc++6 zlib0
+sdesc: "wxWidgets C++ application framework (base unicode runtime)"
+ldesc: "wxWidgets is a set of libraries that allows C++ applications to
+compile and run on several different types of computer, with minimal source
+code changes. There is one library per supported GUI. As well as providing a
+common API for GUI functionality, it provides functionality for accessing some
+commonly-used operating system facilities, from copying and deleting files to
+socket and thread support."
+external-source: wxWidgets_3.2
+

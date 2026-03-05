@@ -1,0 +1,13 @@
+category: Libs
+build-depends: cygport zlib-devel libexpat-devel libjpeg-devel libpng-devel libtiff-devel libpcre2-devel libcurl-devel libcairo-devel libgspell1-devel libgtk3-devel libnotify-devel libsecret1-devel python3 libQt5Core-devel libgnomevfs2-devel libmspack-devel libwebkitgtk3.0-devel libgstreamer1.0-devel libgstinterfaces1.0-devel libgstbad1.0-devel
+sdesc: "wxWidgets C++ application framework"
+ldesc: "wxWidgets is a set of libraries that allows C++ applications to
+compile and run on several different types of computer, with minimal source
+code changes. There is one library per supported GUI. As well as providing a
+common API for GUI functionality, it provides functionality for accessing some
+commonly-used operating system facilities, from copying and deleting files to
+socket and thread support."
+skip:
+
+homepage: http://wxwidgets.org/
+license: wxWindows

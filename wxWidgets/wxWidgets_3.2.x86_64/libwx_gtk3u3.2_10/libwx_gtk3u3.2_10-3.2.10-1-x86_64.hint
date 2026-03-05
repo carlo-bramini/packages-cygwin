@@ -1,0 +1,11 @@
+category: Libs
+requires: cygwin libcairo2 libEGL1 libgcc1 libgdk_pixbuf2.0_0 libGL1 libglib2.0_0 libgspell1_1 libgstbad1.0_0 libgstreamer1.0_0 libgtk3_0 libjpeg8 libmspack0 libnotify4 libpango1.0_0 libpng16 libstdc++6 libtiff7 libwebkitgtk3.0_0 libwx_baseu3.2_10 libX11_6 libxkbcommon0 libXtst6
+sdesc: "wxWidgets C++ application framework (GTK+3 unicode runtime)"
+ldesc: "wxWidgets is a set of libraries that allows C++ applications to
+compile and run on several different types of computer, with minimal source
+code changes. There is one library per supported GUI. As well as providing a
+common API for GUI functionality, it provides functionality for accessing some
+commonly-used operating system facilities, from copying and deleting files to
+socket and thread support."
+external-source: wxWidgets_3.2
+
