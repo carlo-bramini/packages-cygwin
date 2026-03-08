@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-fmt
+sdesc: "OpenAL for Win64 toolchain"
+ldesc: "OpenAL Soft is a software implementation of the OpenAL 3D audio API."
+skip:
+
+homepage: https://www.openal.org/
+license: GPL-2.0-or-later

@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-winpthreads pkg-config
+sdesc: "OpenAL for Win64 toolchain"
+ldesc: "OpenAL Soft is a software implementation of the OpenAL 3D audio API."
+
