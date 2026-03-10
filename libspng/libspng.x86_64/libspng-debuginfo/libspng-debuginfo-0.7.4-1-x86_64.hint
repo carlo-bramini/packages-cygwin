@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libspng
+sdesc: "Debug info for libspng"
+ldesc: "This package contains files necessary for debugging the
+libspng package with gdb."
+
