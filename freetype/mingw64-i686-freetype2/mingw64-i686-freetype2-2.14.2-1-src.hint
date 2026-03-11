@@ -1,0 +1,12 @@
+category: Devel
+build-depends: cygport mingw64-i686-zlib mingw64-i686-libpng mingw64-i686-bzip2
+sdesc: "TrueType font engine for Win32 toolchain"
+ldesc: "FreeType is a freely available software library
+ to render fonts. It is written in C, designed to be small,
+ efficient, highly customizable, and portable while capable
+ of producing high-quality output (glyph images) of most
+ vector and bitmap font formats."
+skip:
+
+homepage: http://freetype.sourceforge.net/
+license: FTL OR GPL-2.0-or-later

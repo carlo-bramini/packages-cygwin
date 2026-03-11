@@ -1,0 +1,9 @@
+category: Devel
+requires: mingw64-i686-bzip2 mingw64-i686-gcc-core mingw64-i686-libpng mingw64-i686-zlib pkg-config
+sdesc: "TrueType font engine for Win32 toolchain"
+ldesc: "FreeType is a freely available software library
+ to render fonts. It is written in C, designed to be small,
+ efficient, highly customizable, and portable while capable
+ of producing high-quality output (glyph images) of most
+ vector and bitmap font formats."
+
