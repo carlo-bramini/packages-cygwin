@@ -1,0 +1,7 @@
+category: Devel
+requires: mingw64-x86_64-curl mingw64-x86_64-gcc-core mingw64-x86_64-zlib mingw64-x86_64-zstd
+sdesc: "MySQL client library for Win64 toolchain"
+ldesc: "MariaDB Connector/C is used to connect applications developed in
+C or C++ to MariaDB and MySQL databases. MariaDB Connector/C has exactly the
+same API as the MySQL Connector/C for MySQL 5.5."
+
