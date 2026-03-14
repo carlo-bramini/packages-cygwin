@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-libogg
+sdesc: "Xiph FLAC codec for Win64 toolchain"
+ldesc: "FLAC stands for Free Lossless Audio Codec, an audio format similar
+to MP3, but lossless, meaning that audio is compressed in FLAC without any loss
+in quality."
+skip:
+
+homepage: http://www.xiph.org/flac/
+license: GPL-2.0-or-later
