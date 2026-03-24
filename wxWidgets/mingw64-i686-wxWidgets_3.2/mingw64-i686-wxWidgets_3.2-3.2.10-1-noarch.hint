@@ -1,0 +1,10 @@
+category: Devel
+requires: bash mingw64-i686-curl mingw64-i686-expat mingw64-i686-gcc-core mingw64-i686-gcc-g++ mingw64-i686-libjpeg-turbo mingw64-i686-libpng mingw64-i686-xz mingw64-i686-zlib
+sdesc: "wxWidgets C++ application framework for Win32 toolchain"
+ldesc: "wxWidgets is a set of libraries that allows C++ applications to
+compile and run on several different types of computer, with minimal source
+code changes. There is one library per supported GUI. As well as providing a
+common API for GUI functionality, it provides functionality for accessing some
+commonly-used operating system facilities, from copying and deleting files to
+socket and thread support."
+

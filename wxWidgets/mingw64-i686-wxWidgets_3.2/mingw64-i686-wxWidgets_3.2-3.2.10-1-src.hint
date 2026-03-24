@@ -1,0 +1,13 @@
+category: Devel
+build-depends: cygport mingw64-i686-zlib mingw64-i686-expat mingw64-i686-libjpeg-turbo mingw64-i686-libpng mingw64-i686-tiff mingw64-i686-pcre2
+sdesc: "wxWidgets C++ application framework for Win32 toolchain"
+ldesc: "wxWidgets is a set of libraries that allows C++ applications to
+compile and run on several different types of computer, with minimal source
+code changes. There is one library per supported GUI. As well as providing a
+common API for GUI functionality, it provides functionality for accessing some
+commonly-used operating system facilities, from copying and deleting files to
+socket and thread support."
+skip:
+
+homepage: http://wxwidgets.org/
+license: wxWindows
