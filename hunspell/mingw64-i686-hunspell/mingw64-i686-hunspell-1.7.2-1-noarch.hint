@@ -1,0 +1,7 @@
+category: Devel
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ pkg-config
+sdesc: "Spell checker and morphological analyzer for Win32 toolchain"
+ldesc: "Hunspell is a spell checker and morphological analyzer library
+and program designed for languages with rich morphology and complex
+compounding or character encoding."
+
