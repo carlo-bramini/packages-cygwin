@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-zlib mingw64-x86_64-readline
+sdesc: "SQLite 3.x database library for Win64 toolchain"
+ldesc: "SQLite is a C-language library that implements a
+ small, fast, self-contained, high-reliability, full-featured,
+ SQL database engine."
+skip:
+
+homepage: https://www.sqlite.org
+license: PublicDomain

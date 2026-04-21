@@ -1,0 +1,7 @@
+category: Devel
+requires: mingw64-i686-gcc-core pkg-config
+sdesc: "SQLite 3.x database library for Win32 toolchain"
+ldesc: "SQLite is a C-language library that implements a
+ small, fast, self-contained, high-reliability, full-featured,
+ SQL database engine."
+
