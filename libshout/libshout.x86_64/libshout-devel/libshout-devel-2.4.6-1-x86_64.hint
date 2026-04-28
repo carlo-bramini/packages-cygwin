@@ -1,0 +1,8 @@
+category: Devel
+requires: libogg-devel libshout3 libssl-devel libtheora-devel libvorbis-devel pkg-config speex-devel
+sdesc: "Icecast streaming media client library"
+ldesc: "Libshout is a library for communicating with and sending data to
+an Icecast server.  It handles the socket connection, the timing of the data,
+and prevents bad data from getting to the Icecast server."
+external-source: libshout
+
