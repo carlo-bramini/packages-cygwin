@@ -1,0 +1,8 @@
+category: Libs
+build-depends: cygport 
+sdesc: "Thin layer of graphic data types"
+ldesc: "A thin layer of graphic data types."
+skip:
+
+homepage: https://ebassi.github.io/graphene/
+license: MIT

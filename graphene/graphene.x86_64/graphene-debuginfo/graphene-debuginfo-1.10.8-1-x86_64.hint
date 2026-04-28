@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: graphene
+sdesc: "Debug info for graphene"
+ldesc: "This package contains files necessary for debugging the
+graphene package with gdb."
+
