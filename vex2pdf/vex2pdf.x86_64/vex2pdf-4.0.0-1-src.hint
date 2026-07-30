@@ -1,0 +1,9 @@
+category: Security
+build-depends: cygport cargo rust
+sdesc: "CycloneDX (VEX/VDR/(S)BoM) to PDF Converter"
+ldesc: "A command-line tool to convert CycloneDX (VEX/VDR/(S)BoM)
+ Documents in JSON or XML format to PDF reports."
+skip:
+
+homepage: https://gitlab.com/jurassicLizard/vex2pdf
+license: Apache-2.0
