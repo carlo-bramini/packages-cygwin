@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Microsoft Guidelines Support Library"
+ldesc: "The Guidelines Support Library (GSL) contains
+ functions and types that are suggested for use by the C++
+ Core Guidelines maintained by the Standard C++ Foundation."
+skip:
+
+homepage: https://github.com/Microsoft/GSL
+license: MIT

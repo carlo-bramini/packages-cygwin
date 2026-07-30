@@ -1,0 +1,7 @@
+category: Devel
+requires: 
+sdesc: "Microsoft Guidelines Support Library for Win64 toolchain"
+ldesc: "The Guidelines Support Library (GSL) contains
+ functions and types that are suggested for use by the C++
+ Core Guidelines maintained by the Standard C++ Foundation."
+
