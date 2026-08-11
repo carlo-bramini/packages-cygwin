@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport mingw64-i686-libxml2
+sdesc: "C++ bindings to libxml2 for Win32 toolchain"
+ldesc: "This library provides a C++ interface to XML files. It uses libxml2 to access the XML files."
+skip:
+
+homepage: https://libxmlplusplus.github.io/libxmlplusplus/
+license: LGPL-2.1-or-later

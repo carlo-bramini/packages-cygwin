@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-i686-gcc-core mingw64-i686-gcc-g++ mingw64-i686-libxml2 pkg-config
+sdesc: "C++ bindings to libxml2 for Win32 toolchain"
+ldesc: "This library provides a C++ interface to XML files. It uses libxml2 to access the XML files."
+

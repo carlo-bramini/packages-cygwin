@@ -1,0 +1,8 @@
+category: Libs
+build-depends: cygport libxml2-devel
+sdesc: "C++ bindings to libxml2"
+ldesc: "This library provides a C++ interface to XML files. It uses libxml2 to access the XML files."
+skip:
+
+homepage: https://libxmlplusplus.github.io/libxmlplusplus/
+license: LGPL-2.1-or-later

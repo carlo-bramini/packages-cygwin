@@ -1,0 +1,6 @@
+category: Doc
+requires: 
+sdesc: "C++ bindings to libxml2"
+ldesc: "This library provides a C++ interface to XML files. It uses libxml2 to access the XML files."
+external-source: libxml++-5.0
+

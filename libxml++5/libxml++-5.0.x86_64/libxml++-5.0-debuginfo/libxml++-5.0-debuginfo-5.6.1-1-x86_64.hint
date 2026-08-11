@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libxml++-5.0
+sdesc: "Debug info for libxml++-5.0"
+ldesc: "This package contains files necessary for debugging the
+libxml++-5.0 package with gdb."
+
