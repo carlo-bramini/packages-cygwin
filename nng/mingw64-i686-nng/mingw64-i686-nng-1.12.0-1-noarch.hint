@@ -1,0 +1,7 @@
+category: Devel
+requires: mingw64-i686-gcc-core
+sdesc: "Lightweight, broker-less library for Win32 toolchain"
+ldesc: "Rewrite of the Scalability Protocols library known as nanomsg,
+ and adds significant new capabilities, while retaining compatibility with
+ the original."
+

@@ -1,0 +1,10 @@
+category: Libs
+build-depends: cygport mbedtls-devel
+sdesc: "Lightweight, broker-less library"
+ldesc: "Rewrite of the Scalability Protocols library known as nanomsg,
+ and adds significant new capabilities, while retaining compatibility with
+ the original."
+skip:
+
+homepage: https://github.com/nanomsg/nng
+license: MIT

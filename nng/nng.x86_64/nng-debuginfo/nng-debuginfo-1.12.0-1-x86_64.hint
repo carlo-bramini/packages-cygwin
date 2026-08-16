@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: nng
+sdesc: "Debug info for nng"
+ldesc: "This package contains files necessary for debugging the
+nng package with gdb."
+
