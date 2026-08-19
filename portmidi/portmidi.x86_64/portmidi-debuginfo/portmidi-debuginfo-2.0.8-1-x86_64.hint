@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: portmidi
+sdesc: "Debug info for portmidi"
+ldesc: "This package contains files necessary for debugging the
+portmidi package with gdb."
+

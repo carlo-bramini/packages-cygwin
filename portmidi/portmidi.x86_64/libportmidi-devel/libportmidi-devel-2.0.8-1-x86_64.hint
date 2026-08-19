@@ -1,0 +1,7 @@
+category: Devel
+requires: libportmidi pkg-config
+sdesc: "MIDI I/O library"
+ldesc: "PortMIDI is a cross platform (Windows, macOS, Linux, and BSDs which
+ support alsalib) library for interfacing with operating systems' MIDI I/O APIs."
+external-source: portmidi
+

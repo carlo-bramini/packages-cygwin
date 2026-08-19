@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport 
+sdesc: "MIDI I/O library for Win64 toolchain"
+ldesc: "PortMIDI is a cross platform (Windows, macOS, Linux, and BSDs which
+ support alsalib) library for interfacing with operating systems' MIDI I/O APIs."
+skip:
+
+homepage: https://github.com/PortMidi/portmidi
+license: MIT
