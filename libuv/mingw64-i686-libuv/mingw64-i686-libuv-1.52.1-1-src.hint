@@ -1,0 +1,11 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Cross-platform asynchronous I/O library for Win32 toolchain"
+ldesc: "libuv is a multi-platform support library with
+ a focus on asynchronous I/O. It was primarily developed for
+ use by Node.js, but it's also used by Luvit, Julia, uvloop
+ and others."
+skip:
+
+homepage: http://www.libsdl.org/projects/SDL_ttf/
+license: Custom
