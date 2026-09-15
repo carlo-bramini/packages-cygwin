@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-fftw3 mingw64-x86_64-gcc-core mingw64-x86_64-gcc-g++ mingw64-x86_64-winpthreads pkg-config
+sdesc: "Musical key detection library for Win64 toolchain"
+ldesc: "Small C++11 library for estimating the musical key of digital audio."
+

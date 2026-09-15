@@ -1,0 +1,6 @@
+category: Devel
+requires: libfftw3-devel libkeyfinder pkg-config
+sdesc: "Musical key detection library"
+ldesc: "Small C++11 library for estimating the musical key of digital audio."
+external-source: libkeyfinder
+

@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-fftw3
+sdesc: "Musical key detection library for Win64 toolchain"
+ldesc: "Small C++11 library for estimating the musical key of digital audio."
+skip:
+
+homepage: https://mixxxdj.github.io/libkeyfinder/
+license: GPL-3.0-only

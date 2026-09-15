@@ -1,0 +1,8 @@
+category: Libs
+build-depends: cygport libfftw3-devel libcatch2-devel
+sdesc: "Musical key detection library"
+ldesc: "Small C++11 library for estimating the musical key of digital audio."
+skip:
+
+homepage: https://mixxxdj.github.io/libkeyfinder/
+license: GPL-3.0-only
