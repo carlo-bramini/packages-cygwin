@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: libshout-idjc
+sdesc: "Debug info for libshout-idjc"
+ldesc: "This package contains files necessary for debugging the
+libshout-idjc package with gdb."
+

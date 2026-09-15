@@ -1,0 +1,11 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-libogg mingw64-x86_64-libtheora mingw64-x86_64-libvorbis mingw64-x86_64-speex
+sdesc: "Library for accessing a shoutcast/icecast server (with IDJC) for Win64 toolchain"
+ldesc: "Internet DJ Console is a project started in March 2005
+ to provide a powerful yet easy to use source-client for individuals
+ interested in streaming live radio shows over the Internet using
+ Shoutcast or Icecast servers."
+skip:
+
+homepage: http://idjc.sourceforge.net/
+license: LGPL

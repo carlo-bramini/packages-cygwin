@@ -1,0 +1,9 @@
+category: Devel
+requires: libogg-devel libshout-idjc libssl-devel libtheora-devel libvorbis-devel pkg-config speex-devel
+sdesc: "Library for accessing a shoutcast/icecast server (with IDJC)"
+ldesc: "Internet DJ Console is a project started in March 2005
+ to provide a powerful yet easy to use source-client for individuals
+ interested in streaming live radio shows over the Internet using
+ Shoutcast or Icecast servers."
+external-source: libshout-idjc
+
