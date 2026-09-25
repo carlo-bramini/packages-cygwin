@@ -1,0 +1,12 @@
+category: Devel
+build-depends: cygport mingw64-x86_64-plutovg mingw64-x86_64-freetype2
+sdesc: "Tiny SVG rendering library in C for Win64 toolchain"
+ldesc: "PlutoSVG is a compact and efficient SVG rendering
+ library written in C. It is specifically designed for parsing
+ and rendering SVG documents embedded in OpenType fonts, providing
+ an optimal balance between speed and minimal memory usage.
+ It is also suitable for rendering scalable icons."
+skip:
+
+homepage: https://github.com/sammycage/plutosvg
+license: MIT

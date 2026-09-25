@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: plutosvg
+sdesc: "Debug info for plutosvg"
+ldesc: "This package contains files necessary for debugging the
+plutosvg package with gdb."
+
