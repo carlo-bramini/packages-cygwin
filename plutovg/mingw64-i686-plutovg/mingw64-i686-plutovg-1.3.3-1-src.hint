@@ -1,0 +1,8 @@
+category: Devel
+build-depends: cygport 
+sdesc: "Tiny 2D graphic library in C for Win32 toolchain"
+ldesc: "PlutoVG is a standalone 2D vector graphics library in C."
+skip:
+
+homepage: https://github.com/sammycage/plutovg
+license: MIT

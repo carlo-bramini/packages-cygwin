@@ -1,0 +1,5 @@
+category: Devel
+requires: mingw64-x86_64-gcc-core pkg-config
+sdesc: "Tiny 2D graphic library in C for Win64 toolchain"
+ldesc: "PlutoVG is a standalone 2D vector graphics library in C."
+
