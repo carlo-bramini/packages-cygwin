@@ -1,0 +1,8 @@
+category: Devel
+requires: bash cygwin libyaml0_2 python312
+sdesc: "Device Tree Compiler"
+ldesc: "Device Tree Compiler (dtc) is a toolchain for working
+ with device tree source and binary files. It also ships libfdt,
+ a utility library for reading and manipulating the binary format."
+external-source: dtc
+

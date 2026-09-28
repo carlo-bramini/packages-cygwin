@@ -1,0 +1,10 @@
+category: Devel
+build-depends: cygport python3-setuptools-scm swig libyaml-devel
+sdesc: "Device Tree Compiler"
+ldesc: "Device Tree Compiler (dtc) is a toolchain for working
+ with device tree source and binary files. It also ships libfdt,
+ a utility library for reading and manipulating the binary format."
+skip:
+
+homepage: https://www.devicetree.org/
+license: GPL-2.0-or-later
