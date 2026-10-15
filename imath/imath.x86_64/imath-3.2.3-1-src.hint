@@ -1,0 +1,9 @@
+category: Devel
+build-depends: cygport python3-numpy libboost-devel
+sdesc: "C++ and python library for computer graphics"
+ldesc: "Imath is a C++ and python library of 2D and 3D vector, matrix,
+ and math operations for computer graphics."
+skip:
+
+homepage: http://www.openexr.com/
+license: BSD-3-Clause

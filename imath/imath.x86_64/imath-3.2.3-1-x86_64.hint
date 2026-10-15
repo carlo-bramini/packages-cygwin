@@ -1,0 +1,6 @@
+category: Devel
+requires: cygwin libboost_python312 libgcc1 libstdc++6 python312
+sdesc: "C++ and python library for computer graphics"
+ldesc: "Imath is a C++ and python library of 2D and 3D vector, matrix,
+ and math operations for computer graphics."
+
