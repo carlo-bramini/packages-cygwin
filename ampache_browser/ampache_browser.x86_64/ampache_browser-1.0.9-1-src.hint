@@ -1,0 +1,9 @@
+category: Libs
+build-depends: cygport libintl-devel libQt5Core-devel libQt5Gui-devel
+sdesc: "Ampache desktop client library"
+ldesc: "Ampache Browser is C++ library that provides access
+ to Ampache server via Qt graphical user interface."
+skip:
+
+homepage: https://ampache-browser.org/
+license: GPL-3.0

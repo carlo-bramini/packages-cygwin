@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: ampache_browser
+sdesc: "Debug info for ampache_browser"
+ldesc: "This package contains files necessary for debugging the
+ampache_browser package with gdb."
+

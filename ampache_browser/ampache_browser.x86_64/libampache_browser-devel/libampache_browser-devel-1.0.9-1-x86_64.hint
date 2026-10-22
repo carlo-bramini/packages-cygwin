@@ -1,0 +1,7 @@
+category: Libs
+requires: libampache_browser pkg-config
+sdesc: "Ampache desktop client library"
+ldesc: "Ampache Browser is C++ library that provides access
+ to Ampache server via Qt graphical user interface."
+external-source: ampache_browser
+
